@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9      # file uploads for /voice
+anthropic>=0.40              # LLM with tool use
+faster-whisper>=1.0          # speech-to-text (local)
+gTTS>=2.5                    # text-to-speech
+python-dotenv>=1.0           # optional: load .env

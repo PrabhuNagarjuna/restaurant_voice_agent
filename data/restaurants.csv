@@ -1,0 +1,1001 @@
+restaurant_id,restaurant_name,city,area,cuisine,price_range,rating,review_count,avg_meal_price,seating_capacity,delivery_available,opening_year,monthly_revenue,operating_costs
+KOL-0001,Thai Express,Kolkata,New Town,Thai,Premium,4.1,55,590,46,Yes,2019,991600,727900
+AMD-0002,Hyderabadi Kitchen,Ahmedabad,Navrangpura,Biryani,Mid-range,3.9,195,240,77,Yes,2020,1015400,719700
+PUN-0003,Crispy Point,Pune,Baner,Fast Food,Budget,4.0,127,170,,Yes,2016,480100,369100
+KOL-0004,Fry Point,Kolkata,New Town,Fast Food,Budget,3.2,56,120,43,Yes,2022,385900,267800
+AMD-0005,Tadka Darbar,Ahmedabad,Navrangpura,North Indian,Mid-range,,111,350,92,No,2021,606500,424800
+BLR-0006,Dosa Kitchen,Bengaluru,Indiranagar,South Indian,Mid-range,3.3,,300,48,Yes,2021,533800,475100
+BLR-0007,Dhaba Kitchen,Bengaluru,Jayanagar,North Indian,Premium,3.9,,820,39,No,2017,692200,678400
+BLR-0008,Rasoi Darbar,Bengaluru,Indiranagar,North Indian,Mid-range,3.7,117,530,81,No,2010,796400,535900
+MUM-0009,Wrap Hub,Mumbai,Andheri,Fast Food,Mid-range,3.8,39,210,13,Yes,2018,202000,
+CHE-0010,Badshah Mahal,Chennai,Adyar,Mughlai,Premium,3.8,402,910,63,No,2023,1395500,1198100
+JAI-0011,Tadka Junction,Jaipur,C-Scheme,North Indian,Mid-range,4.0,310,260,75,Yes,2009,,519800
+PUN-0012,Dhaba Junction,Pune,Camp,North Indian,Premium,4.7,125,600,66,No,2010,919900,785400
+CHE-0013,Burger Box,Chennai,Mylapore,Fast Food,Budget,3.3,57,110,19,Yes,2021,160400,127400
+JAI-0014,Dhaba Darbar,Jaipur,Malviya Nagar,North Indian,Mid-range,5.0,,330,45,No,2019,241700,
+KOL-0015,Bean Lab,Kolkata,Ballygunge,Cafe,Mid-range,3.4,406,290,26,Yes,2020,251600,192000
+DEL-0016,Kerala Point,Delhi,Dwarka,South Indian,Mid-range,,78,300,44,Yes,2020,625700,497600
+AMD-0017,Udupi Mess,Ahmedabad,Satellite,South Indian,Budget,3.4,432,220,78,Yes,2017,718300,466200
+CHE-0018,Tide Shack,Chennai,Velachery,Seafood,Mid-range,3.9,271,590,74,Yes,2010,806100,537400
+DEL-0019,Chopstick Bowl,Delhi,Hauz Khas,Chinese,Premium,4.8,509,690,154,No,2012,2513200,2309500
+AMD-0020,Swad Kitchen,Ahmedabad,Satellite,North Indian,Mid-range,,101,390,145,No,2015,1856600,
+MUM-0021,Idli Point,Mumbai,Colaba,South Indian,Mid-range,4.2,343,320,22,Yes,2018,361200,287800
+CHE-0022,Pasta Table,Chennai,Velachery,Italian,Premium,4.0,140,1000,86,No,2022,1821200,1358000
+BLR-0023,Heritage Dine,Bengaluru,Indiranagar,Multi-cuisine,Premium,3.3,1859,1300,198,No,2001,3906300,2831400
+DEL-0024,Chai Point,Delhi,Saket,Bakery & Desserts,Mid-range,4.2,129,240,16,No,2019,141600,116500
+PUN-0025,Coastal Grill,Pune,Kothrud,Seafood,Mid-range,4.3,31,640,86,No,2020,417500,373700
+CHE-0026,Pizza Corner,Chennai,Mylapore,North Indian,Mid-range,3.4,47,460,73,Yes,2022,1464300,1048300
+JAI-0027,Kerala Cafe,Jaipur,Malviya Nagar,South Indian,Budget,3.8,81,130,31,Yes,2022,249100,181000
+BLR-0028,Chai Point,Bengaluru,Indiranagar,Continental,Premium,3.7,203,1890,79,Yes,2018,2690700,1905700
+BLR-0029,Madras Point,Bengaluru,Whitefield,South Indian,Mid-range,4.3,83,280,43,Yes,2020,464900,419900
+BLR-0030,Goan Grill,Bengaluru,Jayanagar,Seafood,Mid-range,3.9,328,670,91,Yes,2013,887200,594900
+HYD-0031,Rasoi Corner,Hyderabad,Banjara Hills,North Indian,Mid-range,4.2,84,340,184,Yes,2017,,1528600
+NAG-0032,Izakaya House,Nagpur,Manish Nagar,Japanese,Luxury,4.3,191,9500,34,No,2021,4800000,3700000
+BLR-0033,Roast Co.,Bengaluru,Koramangala,Cafe,Mid-range,3.9,41,,20,No,2022,,222400
+KOL-0034,Pizza Corner,Kolkata,New Town,Fast Food,Mid-range,3.8,20,150,20,Yes,2023,236100,192200
+JAI-0035,Lucky Express,Jaipur,Vaishali Nagar,Chinese,Mid-range,3.4,286,270,78,Yes,,533500,421800
+KOL-0036,Burger Stop,Kolkata,Park Street,Fast Food,Budget,4.7,19,130,44,Yes,2023,456800,256900
+MUM-0037,Dosa Express,Mumbai,Andheri,Seafood,Premium,3.7,82,1500,92,No,2024,2472000,2203500
+PUN-0038,Basil Kitchen,Pune,Koregaon Park,Thai,Budget,3.7,392,500,49,Yes,2017,490400,307100
+JAI-0039,Udupi Tiffins,Jaipur,Malviya Nagar,South Indian,Budget,4.0,85,150,27,Yes,2015,151200,142800
+MUM-0040,Tadka House,Mumbai,Powai,North Indian,Mid-range,4.0,67,510,114,Yes,2021,990800,760600
+CHE-0041,Golden Express,Chennai,Anna Nagar,Chinese,Budget,4.1,279,270,72,Yes,2000,796000,614600
+CHE-0042,Munch Corner,Chennai,Adyar,Fast Food,Budget,2.9,17,160,11,Yes,2022,97900,71900
+PUN-0043,Noodle House,Pune,Hinjewadi,Chinese,Mid-range,4.0,152,380,70,Yes,2015,565200,458000
+BLR-0044,Kerala Tiffins,Bengaluru,MG Road,South Indian,Budget,,78,230,30,Yes,2023,351400,210200
+HYD-0045,Bean Lab,Hyderabad,Jubilee Hills,Cafe,Premium,3.9,111,550,55,Yes,2007,,
+KOL-0046,Idli Kitchen,Kolkata,Park Street,South Indian,Budget,3.9,90,170,56,Yes,2017,717800,642500
+CHE-0047,Dosa Express,Chennai,T. Nagar,South Indian,Budget,4.3,111,120,44,No,2020,194700,145000
+DEL-0048,Dum Kitchen,Delhi,Karol Bagh,Biryani,Mid-range,4.0,103,370,71,Yes,2013,1639800,1224600
+BLR-0049,Coastal Table,Bengaluru,MG Road,Seafood,Mid-range,4.1,160,710,54,No,2018,983300,598200
+DEL-0050,Bite Stop,Delhi,Lajpat Nagar,Fast Food,Budget,3.7,84,110,29,Yes,2009,253300,235700
+JAI-0051,Napoli Table,Jaipur,Vaishali Nagar,Italian,Premium,3.9,358,1000,58,Yes,2014,,1049700
+MUM-0052,Mughal Mahal,Mumbai,Andheri,Mughlai,Premium,3.9,71,920,107,Yes,2024,2130400,1329700
+KOL-0053,Butter Bakery,Kolkata,Salt Lake,Bakery & Desserts,Premium,4.6,38,290,26,Yes,2023,195800,157400
+HYD-0054,Shahi Kitchen,Hyderabad,Secunderabad,Mughlai,Mid-range,4.7,101,390,82,Yes,2019,560600,417500
+PUN-0055,Orchid Orchid,Pune,Camp,Thai,Premium,4.0,133,820,95,No,2010,1909300,1533200
+MUM-0056,Zaika Kitchen,Mumbai,Colaba,North Indian,Premium,3.6,199,940,149,Yes,2018,4678400,4397800
+PUN-0057,Umami Room,Pune,Pimpri,Japanese,Premium,3.8,541,1310,92,No,2017,4343200,4263600
+HYD-0058,Swad Kitchen,Hyderabad,Gachibowli,North Indian,Luxury,4.1,143,1020,47,No,2014,909900,846700
+BLR-0059,Basilico Co.,Bengaluru,HSR Layout,Italian,Mid-range,4.1,143,890,81,No,2016,3244000,3086600
+CHE-0060,Crispy Stop,Chennai,Anna Nagar,Fast Food,Mid-range,4.3,67,210,27,Yes,2022,,320000
+AMD-0061,Dum Centre,Ahmedabad,Maninagar,Biryani,Budget,4.0,177,190,40,Yes,2016,219600,166800
+DEL-0062,Sev Point,Delhi,Lajpat Nagar,Street Food,Budget,4.2,237,100,25,Yes,2013,236700,154800
+AMD-0063,Badshah Kitchen,Ahmedabad,Maninagar,Mughlai,Premium,4.2,162,740,205,Yes,2024,4114200,3839500
+DEL-0064,Goan Grill,Delhi,Connaught Place,Seafood,Premium,3.4,37,1240,71,Yes,2023,5786900,4886300
+PUN-0065,Royal Darbar,Pune,Baner,Biryani,Budget,3.9,206,180,57,Yes,2020,486500,417100
+BLR-0066,Handi Junction,Bengaluru,Whitefield,North Indian,Mid-range,4.5,154,370,93,No,2024,596000,494800
+PUN-0067,Zaika Express,Pune,Viman Nagar,North Indian,Budget,3.8,410,300,47,Yes,2020,208200,156400
+KOL-0068,Wok Garden,Kolkata,Salt Lake,Chinese,Mid-range,3.2,166,280,70,No,2007,515800,475500
+NAG-0069,Dum Kitchen,Nagpur,Manish Nagar,Biryani,Mid-range,3.4,75,240,50,Yes,2010,368400,370500
+MUM-0070,Burger Hub,Mumbai,Bandra,Cafe,Mid-range,3.7,82,450,25,Yes,2020,403700,348500
+JAI-0071,Lucknowi Darbar,Jaipur,C-Scheme,Biryani,Budget,4.2,1135,190,77,Yes,2013,423800,266000
+MUM-0072,La Piazza Cucina,Mumbai,Lower Parel,Italian,Mid-range,3.8,198,720,174,No,2018,798400,475100
+KOL-0073,Matsu Room,Kolkata,Howrah,Japanese,Premium,3.9,232,1770,54,No,2016,1348900,1117800
+MUM-0074,Dosa Tiffins,Mumbai,Lower Parel,South Indian,Budget,4.3,203,270,32,No,2008,205500,176000
+CHE-0075,Brew Roasters,Chennai,Anna Nagar,Cafe,Mid-range,4.4,228,380,36,Yes,2007,507800,439800
+MUM-0076,Atlas & Co.,Mumbai,Lower Parel,Continental,Luxury,4.4,86,2280,64,No,2022,1219500,1007400
+AMD-0077,Bella Kitchen,Ahmedabad,SG Highway,Italian,Premium,4.2,235,930,65,No,2021,870200,718200
+AMD-0078,Daily Grind Social,Ahmedabad,Satellite,Cafe,Premium,,67,410,61,No,2025,1256800,1030200
+CHE-0079,Saravana Point,Chennai,Anna Nagar,South Indian,Mid-range,4.1,26,210,29,Yes,2018,237000,186500
+MUM-0080,Salsa Co.,Mumbai,Lower Parel,Mexican,Mid-range,3.6,1090,620,83,Yes,2017,1556300,1363700
+MUM-0081,Tokyo Den,Mumbai,Bandra,Japanese,Mid-range,3.8,202,1340,57,No,2021,1996700,1412200
+CHE-0082,Urban Dine,Chennai,Anna Nagar,Multi-cuisine,Premium,4.2,337,660,152,No,2017,1010900,842600
+MUM-0083,Zaika Junction,Mumbai,Powai,North Indian,Premium,4.3,54,650,59,No,2010,1057400,718000
+PUN-0084,Udupi Mess,Pune,Camp,South Indian,Mid-range,3.8,756,240,63,No,2019,,825100
+DEL-0085,Goan Table,Delhi,Lajpat Nagar,Seafood,Premium,4.4,,1350,135,No,2018,4567400,3348700
+BLR-0086,Heritage Plaza,Bengaluru,MG Road,Multi-cuisine,Mid-range,4.6,197,880,104,Yes,2017,3654200,2987100
+KOL-0087,Cedar Kitchen,Kolkata,New Town,Continental,Premium,4.5,176,1480,80,Yes,2007,4123500,2820400
+MUM-0088,Dum Centre,Mumbai,Powai,Biryani,Mid-range,4.2,159,380,47,No,2021,810700,
+PUN-0089,Dragon Garden,Pune,Kothrud,Chinese,Budget,4.0,33,230,41,No,2021,137100,130600
+DEL-0090,Mughal Kitchen,Delhi,Dwarka,Mughlai,Mid-range,3.2,45,670,72,No,2016,1095000,686100
+JAI-0091,Cocoa Co.,Jaipur,Vaishali Nagar,Bakery & Desserts,Mid-range,4.3,193,260,55,Yes,2020,564500,493900
+AMD-0092,Basilico Table,Ahmedabad,Navrangpura,Italian,Mid-range,3.7,248,570,121,Yes,2020,1147600,783200
+PUN-0093,Izakaya Table,Pune,Kothrud,Japanese,Mid-range,3.6,58,1080,74,No,2022,1829000,1504400
+DEL-0094,Mysore Tiffins,Delhi,Dwarka,South Indian,Budget,3.8,134,250,21,Yes,2017,197300,130500
+AMD-0095,Dum Centre,Ahmedabad,SG Highway,Biryani,Mid-range,4.7,66,290,59,Yes,2018,1128200,
+JAI-0096,Panda Bowl,Jaipur,Vaishali Nagar,Chinese,Budget,5.0,25,200,65,Yes,2022,418400,392300
+AMD-0097,Udupi Kitchen,Ahmedabad,Maninagar,South Indian,Budget,3.9,75,180,29,No,2022,161000,119100
+KOL-0098,Dhaba Junction,Kolkata,New Town,North Indian,Mid-range,3.7,137,350,67,Yes,2012,551400,473600
+JAI-0099,Royal Garden,Jaipur,Vaishali Nagar,Multi-cuisine,Mid-range,4.1,446,500,314,Yes,2012,2154200,1928000
+HYD-0100,Tokyo Room,Hyderabad,Jubilee Hills,Japanese,Mid-range,3.7,146,840,46,No,2021,987400,756900
+AMD-0101,Shahi Kitchen,Ahmedabad,SG Highway,Mughlai,Premium,3.4,144,580,91,No,2021,864000,729000
+CHE-0102,Casa Loco,Chennai,Adyar,Mexican,Premium,4.2,104,540,100,Yes,2020,961400,724700
+MUM-0103,Matsu House,Mumbai,Bandra,Japanese,Premium,4.0,40,2250,78,Yes,2020,3383800,2812400
+AMD-0104,Pani Puri Point,Ahmedabad,Satellite,Street Food,Budget,3.6,41,70,,Yes,2021,166200,160700
+CHE-0105,Sev Stall,Chennai,T. Nagar,Street Food,Budget,4.3,33,70,17,Yes,2020,100500,85600
+BLR-0106,Dilli House,Bengaluru,HSR Layout,Mughlai,Budget,4.4,126,480,24,Yes,2023,399300,338400
+MUM-0107,Roast Studio,Mumbai,Dadar,Cafe,Budget,3.8,61,310,28,No,2019,203000,163200
+PUN-0108,Golden House,Pune,Pimpri,Chinese,Budget,3.8,38,230,82,No,2014,558000,
+NAG-0109,Butter Patisserie,Nagpur,Manish Nagar,Bakery & Desserts,Mid-range,4.0,110,,24,Yes,2017,237700,211100
+PUN-0110,Mocha Co.,Pune,Koregaon Park,Cafe,Budget,,150,310,26,Yes,2018,327500,
+KOL-0111,Nacho Kitchen,Kolkata,Park Street,Mexican,Budget,4.3,86,360,83,No,2021,353100,315400
+PUN-0112,Burger Hub,Pune,Pimpri,Italian,Premium,4.2,34,1080,34,No,2018,774300,468000
+PUN-0113,Brasserie Bistro,Pune,Hinjewadi,Continental,Mid-range,3.9,294,610,56,No,2013,809300,698900
+MUM-0114,Bangkok Orchid,Mumbai,Colaba,Thai,Premium,3.5,77,700,60,No,2013,714500,500700
+DEL-0115,Madras Tiffins,Delhi,Lajpat Nagar,South Indian,Budget,3.9,24,,71,Yes,2024,343100,185900
+CHE-0116,Olive Bistro,Chennai,T. Nagar,Italian,Mid-range,3.7,176,890,72,No,2018,1246500,949100
+PUN-0117,Vada Pav Stall,Pune,Kothrud,Street Food,Budget,3.8,49,100,24,Yes,2021,174200,132700
+DEL-0118,Matsu Table,Delhi,Saket,Japanese,Premium,3.8,57,2040,56,Yes,2020,3674200,3045200
+HYD-0119,Monsoon Dine,Hyderabad,Jubilee Hills,Multi-cuisine,Budget,4.4,230,400,153,Yes,2018,1847800,1692300
+NAG-0120,Jade Palace,Nagpur,Dharampeth,Chinese,Mid-range,3.7,196,230,,Yes,2017,199800,167900
+PUN-0121,Dhaba Junction,Pune,Hinjewadi,North Indian,Mid-range,4.1,381,460,58,Yes,2013,776600,688100
+DEL-0122,Desi Kitchen,Delhi,Lajpat Nagar,North Indian,Mid-range,3.8,66,590,220,No,2017,1876300,1589700
+PUN-0123,Wok Express,Pune,Baner,North Indian,Premium,4.0,61,600,67,Yes,2024,981300,844700
+PUN-0124,Urban Garden,Pune,Viman Nagar,Multi-cuisine,Premium,4.2,237,960,125,No,2022,2203300,2064600
+NAG-0125,Anchor House,Nagpur,Dharampeth,Seafood,Mid-range,4.6,70,460,95,Yes,2020,1445700,1214200
+AMD-0126,El Kitchen,Ahmedabad,Navrangpura,Mexican,Mid-range,4.0,109,550,71,Yes,2022,,1212100
+AMD-0127,Dosa Bhavan,Ahmedabad,Maninagar,South Indian,Budget,3.8,1616,170,50,Yes,2011,365800,264700
+CHE-0128,Sweet House,Chennai,Adyar,Bakery & Desserts,Premium,3.8,49,410,44,Yes,2022,1317200,1424200
+DEL-0129,Napoli Co.,Delhi,Lajpat Nagar,Italian,Mid-range,4.2,213,770,43,Yes,2017,1115300,
+MUM-0130,Pasta Cucina,Mumbai,Dadar,Italian,Premium,4.2,17,1490,53,Yes,2023,1903100,
+NAG-0131,Latte Social,Nagpur,Sitabuldi,Cafe,Premium,4.5,291,470,49,Yes,2021,945800,695200
+HYD-0132,Chilli Kitchen,Hyderabad,Gachibowli,Thai,Premium,4.2,310,970,82,Yes,2016,1958100,1598000
+DEL-0133,Grand Dine,Delhi,Hauz Khas,Multi-cuisine,Premium,3.4,159,900,235,Yes,2017,3188700,1951100
+BLR-0134,Daily Grind Roasters,Bengaluru,HSR Layout,Cafe,Premium,4.3,207,420,30,Yes,2018,480600,332100
+PUN-0135,Spice Dine,Pune,Koregaon Park,Multi-cuisine,Mid-range,4.0,114,880,109,Yes,,2462000,2430200
+MUM-0136,Chopstick Express,Mumbai,Colaba,Chinese,Mid-range,3.9,105,490,196,No,2022,943800,727400
+NAG-0137,Mysore Tiffins,Nagpur,Sitabuldi,South Indian,Mid-range,4.2,132,190,81,Yes,2019,1145400,1001100
+PUN-0138,Mocha Co.,Pune,Pimpri,Cafe,Budget,3.9,23,330,24,No,2024,561200,496300
+DEL-0139,Swad House,Delhi,Dwarka,North Indian,Mid-range,4.3,174,400,65,No,2022,591800,355900
+DEL-0140,Sev Point,Delhi,Karol Bagh,Street Food,Mid-range,4.5,186,140,33,Yes,1999,,324200
+MUM-0141,Gully Wala,Mumbai,Dadar,Street Food,Budget,3.7,178,120,23,No,2015,147200,108300
+PUN-0142,Sizzle Box,Pune,Hinjewadi,Fast Food,Budget,3.7,119,140,24,Yes,2022,189200,133300
+MUM-0143,Daily Grind Lab,Mumbai,Lower Parel,Cafe,Mid-range,3.7,313,350,53,No,2011,477500,361200
+DEL-0144,Munch Box,Delhi,Lajpat Nagar,Fast Food,Budget,3.8,26,140,36,Yes,2023,252000,183200
+HYD-0145,Mysore Cafe,Hyderabad,Gachibowli,South Indian,Mid-range,4.3,64,350,44,Yes,2021,740000,636100
+MUM-0146,Sushi Room,Mumbai,Lower Parel,Japanese,Mid-range,4.6,158,1150,53,Yes,2022,1728100,1260200
+HYD-0147,Gully Corner,Hyderabad,Madhapur,Street Food,Budget,3.9,69,120,19,Yes,2018,,159000
+DEL-0148,Roast Lab,Delhi,Lajpat Nagar,Cafe,Mid-range,4.2,74,430,17,Yes,2021,511800,427800
+MUM-0149,Dhaba Junction,Mumbai,Powai,North Indian,Mid-range,4.6,172,,74,Yes,2022,1642000,1311300
+PUN-0150,Burger Point,Pune,Viman Nagar,Fast Food,Budget,4.0,108,140,38,Yes,2016,307300,246800
+CHE-0151,Fry Shack,Chennai,Anna Nagar,Fast Food,Mid-range,,51,170,25,No,2004,218100,153100
+AMD-0152,Cocoa Box,Ahmedabad,Satellite,Bakery & Desserts,Premium,4.2,346,440,71,Yes,2012,2197300,1798100
+BLR-0153,Crispy Point,Bengaluru,HSR Layout,Fast Food,Budget,4.0,139,220,18,Yes,2014,394200,258900
+AMD-0154,Quick Point,Ahmedabad,SG Highway,Fast Food,Mid-range,4.6,96,180,14,Yes,2013,240200,197600
+HYD-0155,Fry Shack,Hyderabad,Gachibowli,Fast Food,Budget,3.6,270,,20,Yes,2019,129900,94100
+CHE-0156,Fry Box,Chennai,T. Nagar,Fast Food,Mid-range,4.3,,180,28,Yes,2012,459200,335800
+BLR-0157,El Kitchen,Bengaluru,Jayanagar,Mexican,Mid-range,3.2,934,600,79,Yes,2000,885300,710000
+BLR-0158,Mughal Tales,Bengaluru,Whitefield,Mughlai,Premium,3.8,204,990,66,Yes,2020,,
+AMD-0159,Idli Kitchen,Ahmedabad,Navrangpura,South Indian,Mid-range,3.3,37,240,39,Yes,2024,194000,
+CHE-0160,Dosa Express,Chennai,Anna Nagar,Biryani,Premium,4.2,138,520,37,No,2014,396800,299600
+KOL-0161,Nawabi Centre,Kolkata,New Town,Biryani,Mid-range,4.1,489,280,53,Yes,2013,641300,476500
+KOL-0162,Sapphire Plaza,Kolkata,Park Street,Multi-cuisine,Premium,4.0,1133,770,152,No,2021,1301500,875100
+PUN-0163,Tadka Corner,Pune,Camp,North Indian,Premium,4.1,289,510,90,Yes,2021,1806400,1355800
+BLR-0164,Idli Tiffins,Bengaluru,,South Indian,Mid-range,4.4,398,190,92,Yes,2014,835400,596200
+PUN-0165,Bean Roasters,Pune,Pimpri,Cafe,Mid-range,3.8,68,390,37,Yes,2019,629400,546000
+DEL-0166,Zaika Junction,Delhi,Karol Bagh,North Indian,Mid-range,4.0,365,570,99,Yes,2023,1068000,830900
+PUN-0167,Brew Co.,Pune,Kothrud,Cafe,Mid-range,4.8,62000,430,21,Yes,2018,872400,
+HYD-0168,The Grill House,Hyderabad,Jubilee Hills,Continental,Mid-range,3.9,530,770,77,Yes,2012,1620900,1228500
+PUN-0169,Bangkok Express,Pune,Pimpri,Thai,Budget,3.8,85,410,118,Yes,2019,1063000,738000
+JAI-0170,Awadhi Handi,Jaipur,Vaishali Nagar,Biryani,Mid-range,,9,230,34,Yes,2025,306200,268000
+PUN-0171,Mysore Point,Pune,Koregaon Park,South Indian,Mid-range,3.7,68,220,38,Yes,2017,,350000
+BLR-0172,Awadhi Darbar,Bengaluru,Koramangala,Biryani,Budget,3.7,280,330,45,No,2023,449200,412200
+MUM-0173,Idli Bhavan,Mumbai,Borivali,South Indian,Mid-range,4.1,48,250,39,Yes,2014,,
+MUM-0174,Mangalore Shack,Mumbai,Dadar,Seafood,Premium,4.0,217,1760,128,No,2019,7661600,5386300
+DEL-0175,Quick Corner,Delhi,Saket,Fast Food,Budget,3.4,87,200,26,Yes,2018,348300,234000
+PUN-0176,Lucknowi Point,Pune,Koregaon Park,Biryani,Budget,3.3,64,210,47,Yes,2018,639100,473200
+BLR-0177,Idli Cafe,Bengaluru,Whitefield,South Indian,Budget,3.9,1167,210,73,Yes,2016,,
+CHE-0178,Orchid Table,Chennai,Mylapore,Thai,Premium,4.4,1076,810,35,No,2013,759500,579700
+JAI-0179,Cocoa House,Jaipur,Malviya Nagar,Bakery & Desserts,Premium,4.0,156,260,67,No,2017,435400,343900
+CHE-0180,Mysore Tiffins,Chennai,Adyar,South Indian,Premium,4.6,85,330,53,Yes,2022,830000,674200
+PUN-0181,Bean Social,Pune,Hinjewadi,Cafe,Budget,3.6,47,250,22,Yes,2021,280400,224500
+NAG-0182,Desi Junction,Nagpur,Dharampeth,North Indian,Premium,,,490,41,No,2015,407000,288600
+JAI-0183,Spice Garden,Jaipur,Malviya Nagar,Multi-cuisine,Luxury,4.6,225,1470,195,Yes,2011,5563700,5058100
+AMD-0184,Chai Point,Ahmedabad,Navrangpura,Italian,Budget,3.6,178,440,85,Yes,2019,1552800,1169800
+CHE-0185,Dum House,Chennai,Anna Nagar,Biryani,Budget,3.9,179,240,54,No,,,
+MUM-0186,Pani Puri Stall,Mumbai,Lower Parel,Street Food,Budget,4.0,159,170,24,Yes,1992,383000,293800
+CHE-0187,Crispy Hub,Chennai,T. Nagar,Fast Food,Budget,3.9,53,220,23,Yes,2024,397800,269700
+HYD-0188,Catch Kitchen,Hyderabad,Jubilee Hills,Seafood,Premium,4.4,218,1160,38,No,2014,690400,613700
+MUM-0189,Crispy Shack,Mumbai,Lower Parel,Fast Food,Budget,3.9,163,140,19,Yes,2019,,179900
+MUM-0190,Swad Express,Mumbai,Lower Parel,North Indian,Mid-range,4.3,61,590,56,Yes,2019,926200,852300
+BLR-0191,Bite Box,Bengaluru,Jayanagar,Fast Food,Budget,3.4,111,150,18,Yes,2019,199100,137700
+DEL-0192,Shahi Kitchen,Delhi,Saket,Mughlai,Mid-range,4.1,79,560,78,Yes,2018,1600400,1087400
+MUM-0193,Dragon Bowl,Mumbai,Andheri,Chinese,Mid-range,4.1,454,360,61,No,2019,258300,203700
+KOL-0194,Rasoi Junction,Kolkata,Salt Lake,North Indian,Budget,3.7,176,210,93,No,2025,480600,1153440
+DEL-0195,Vada Pav Point,Delhi,Hauz Khas,Street Food,Budget,4.2,152,120,,Yes,2016,247800,206600
+JAI-0196,Idli Cafe,Jaipur,Vaishali Nagar,South Indian,Mid-range,4.1,312,170,42,No,2016,293800,246000
+CHE-0197,Zaika House,Chennai,Velachery,North Indian,Premium,4.0,160,590,97,Yes,2019,817800,650400
+HYD-0198,Desi Express,Hyderabad,Banjara Hills,North Indian,Premium,4.2,168,680,43,Yes,2020,917100,720300
+MUM-0199,Brew Roasters,Mumbai,Andheri,Cafe,Mid-range,3.6,39,470,35,Yes,2025,698100,568600
+HYD-0200,Punjabi Express,Hyderabad,Madhapur,North Indian,Luxury,4.3,491,1010,43,No,2020,1177700,906700
+DEL-0201,Monsoon Terrace,Delhi,Hauz Khas,Multi-cuisine,Mid-range,3.9,62,620,182,No,2016,1826500,1744700
+CHE-0202,Wok Express,Chennai,T. Nagar,Street Food,Budget,4.0,17,90,25,Yes,2025,185500,167500
+CHE-0203,Cuppa Roasters,Chennai,Mylapore,Cafe,Mid-range,,41,360,41,No,2016,471700,402200
+BLR-0204,Basil House,Bengaluru,Jayanagar,Thai,Mid-range,3.9,78,730,72,Yes,2021,1358200,1377400
+HYD-0205,Dragon Express,Hyderabad,Secunderabad,Chinese,Premium,3.5,94,570,80,No,2024,863100,788600
+DEL-0206,Konkan Grill,Delhi,Karol Bagh,Seafood,Mid-range,4.0,53,910,30,Yes,2020,1389100,1240800
+PUN-0207,Fry Stop,Pune,Kothrud,Fast Food,Budget,4.4,99,160,42,Yes,2019,554600,419400
+DEL-0208,Konkan Shack,Delhi,Dwarka,Seafood,Mid-range,4.1,55,890,40,Yes,2022,858200,707200
+PUN-0209,Dum Kitchen,Pune,Kothrud,Biryani,Budget,4.4,,180,43,Yes,,350000,237500
+JAI-0210,Burger Hub,Jaipur,Vaishali Nagar,Street Food,Budget,4.1,88,70,44,Yes,2013,248800,178900
+PUN-0211,Chai Point,Pune,Pimpri,North Indian,Premium,4.4,103,490,72,Yes,2010,,1071700
+JAI-0212,Cantina Grill,Jaipur,C-Scheme,Mexican,Premium,4.1,431,570,100,Yes,2004,1254100,1022100
+PUN-0213,Shahi Mahal,Pune,Camp,Mughlai,Mid-range,5.0,60,490,34,No,2010,441800,427100
+BLR-0214,Noodle Hub,Bengaluru,Jayanagar,Chinese,Budget,3.6,164,260,30,Yes,2014,,182000
+AMD-0215,Tandoor House,Ahmedabad,Maninagar,Mughlai,Premium,,,900,59,No,2020,752400,742200
+JAI-0216,Mocha Studio,Jaipur,Mansarovar,Cafe,Mid-range,4.1,241,280,58,Yes,2019,,756500
+DEL-0217,Tadka Darbar,Delhi,Karol Bagh,North Indian,Mid-range,4.1,114,,70,No,2023,335400,341200
+KOL-0218,Wrap Corner,Kolkata,Park Street,Fast Food,Budget,4.0,25,140,26,Yes,2021,,221300
+JAI-0219,Bean Cafe,Jaipur,Malviya Nagar,Cafe,Premium,3.8,106,370,39,Yes,2022,655900,
+MUM-0220,Dosa Tiffins,Mumbai,Andheri,South Indian,Budget,3.9,240,250,53,No,2017,712100,557500
+BLR-0221,Pani Puri Junction,Bengaluru,Indiranagar,Street Food,Budget,4.5,44,100,26,Yes,2021,150300,153300
+DEL-0222,Sizzle Shack,Delhi,Saket,Fast Food,Budget,3.8,44,170,20,Yes,2020,188600,131200
+DEL-0223,Daily Grind Cafe,Delhi,Lajpat Nagar,Cafe,Mid-range,3.4,213,470,50,No,2015,826000,698800
+BLR-0224,Trattoria Kitchen,Bengaluru,HSR Layout,Italian,Mid-range,4.0,462,990,145,Yes,2023,5844600,3929200
+NAG-0225,Cocoa Studio,Nagpur,Dharampeth,Bakery & Desserts,Budget,4.3,10,140,25,Yes,2020,151300,116400
+DEL-0226,Biryani Darbar,Delhi,Karol Bagh,Biryani,Mid-range,4.4,639,370,53,Yes,2009,1011000,791800
+AMD-0227,Frosted Patisserie,Ahmedabad,Navrangpura,Bakery & Desserts,Budget,3.8,106,220,36,Yes,2016,354800,201000
+MUM-0228,Punjabi Junction,Mumbai,Colaba,North Indian,Budget,3.1,31,320,37,No,2021,217100,193600
+HYD-0229,Monsoon Plaza,Hyderabad,Jubilee Hills,Multi-cuisine,Mid-range,3.8,81,640,180,Yes,2019,1043000,917500
+MUM-0230,Filter Point,Mumbai,Andheri,South Indian,Budget,3.6,28,220,32,Yes,2021,122000,76000
+BLR-0231,Bella Bistro,Bengaluru,Jayanagar,Italian,Mid-range,3.6,99,750,37,Yes,2000,1272000,758500
+HYD-0232,Golden Palace,Hyderabad,Banjara Hills,Chinese,Budget,3.9,141,250,56,Yes,2023,158900,142300
+CHE-0233,Quick Stop,Chennai,Velachery,Fast Food,Mid-range,3.6,193,180,47,Yes,2019,679800,
+PUN-0234,Lucky Palace,Pune,Baner,Chinese,Budget,3.6,30,300,28,No,2022,250400,199300
+CHE-0235,Bean Cafe,Chennai,Velachery,Cafe,Budget,4.0,225,260,35,Yes,2008,459700,351300
+BLR-0236,Trattoria Cucina,Bengaluru,Indiranagar,Italian,Mid-range,3.9,70,970,49,Yes,2018,1360500,
+HYD-0237,Thela Junction,Hyderabad,Banjara Hills,Street Food,Budget,4.1,75,80,30,Yes,2022,287500,240600
+KOL-0238,Chopstick Hub,Kolkata,Ballygunge,Chinese,Mid-range,4.3,65,220,49,Yes,2023,222200,166100
+HYD-0239,Wrap Stop,Hyderabad,Banjara Hills,Fast Food,Budget,3.8,31,140,25,Yes,2024,245100,191200
+BLR-0240,Wok House,Bengaluru,Whitefield,Chinese,Mid-range,4.1,456,450,93,Yes,2016,966900,785600
+MUM-0241,Daily Grind Co.,Mumbai,Borivali,Cafe,Mid-range,3.8,16,370,27,Yes,2025,600800,503500
+JAI-0242,Fisherman's Kitchen,Jaipur,Malviya Nagar,Seafood,Mid-range,3.3,103,,52,No,2023,694700,581500
+PUN-0243,Desi Junction,Pune,Koregaon Park,North Indian,Mid-range,3.7,263,520,71,No,2016,1041400,
+MUM-0244,Dosa Express,Mumbai,Lower Parel,Multi-cuisine,Premium,4.0,133,1380,148,No,2013,2257700,1681300
+KOL-0245,Dhaba Express,Kolkata,New Town,North Indian,Budget,4.5,73,250,251,Yes,2018,2584800,2495500
+PUN-0246,Bean Co.,Pune,Kothrud,Cafe,Premium,4.3,19,690,46,No,2024,982400,776700
+KOL-0247,Tandoor Darbar,Kolkata,Howrah,Mughlai,Luxury,4.4,95,1120,47,No,2023,1402200,951100
+JAI-0248,Crumbs Box,Jaipur,Mansarovar,Bakery & Desserts,Budget,3.5,405,230,46,No,2015,262200,218100
+CHE-0249,Urban Plaza,Chennai,Anna Nagar,Multi-cuisine,Mid-range,3.9,277,540,141,No,2014,1089000,1075900
+AMD-0250,Ramen Bar,Ahmedabad,Maninagar,Japanese,Premium,4.3,422,2760,48,No,2022,5308900,3843100
+MUM-0251,Zaika House,Mumbai,Dadar,North Indian,Budget,3.4,73,370,81,No,2019,584000,491500
+MUM-0252,Swad Express,Mumbai,Lower Parel,North Indian,Premium,4.6,690,550,56,Yes,2013,1203000,1090800
+BLR-0253,Wok Palace,Bengaluru,Indiranagar,Chinese,Budget,4.7,90,280,38,No,2023,285500,206700
+JAI-0254,Dosa Mess,Jaipur,Vaishali Nagar,South Indian,Mid-range,3.8,26,160,39,Yes,2020,318300,220900
+PUN-0255,Wok Express,Pune,Koregaon Park,Fast Food,Budget,4.8,120,130,25,Yes,2019,317800,243000
+DEL-0256,Mysore Kitchen,Delhi,Karol Bagh,South Indian,Mid-range,4.0,47,470,39,Yes,2019,979900,924700
+PUN-0257,Golden House,Pune,Viman Nagar,Chinese,Budget,4.4,125,230,64,Yes,2020,,
+DEL-0258,Filter Bhavan,Delhi,Karol Bagh,South Indian,Mid-range,3.8,669,230,38,Yes,2014,352100,301700
+CHE-0259,Burger Stop,Chennai,T. Nagar,Fast Food,Budget,3.3,140,110,47,Yes,2014,326200,218800
+BLR-0260,Thai Garden,Bengaluru,HSR Layout,Thai,Luxury,3.8,86,2690,68,No,2011,3464600,2402100
+BLR-0261,Mughal Tales,Bengaluru,MG Road,Mughlai,Mid-range,4.6,145,570,77,Yes,2019,1150200,979000
+KOL-0262,Burger Hub,Kolkata,Howrah,Cafe,Mid-range,3.4,92,280,25,Yes,2015,240100,237900
+NAG-0263,Wrap Hub,Nagpur,Dharampeth,Fast Food,Budget,3.9,23,120,12,Yes,2019,104800,75000
+CHE-0264,Jade House,Chennai,Velachery,Chinese,Budget,4.4,110,210,,Yes,2017,551900,407500
+MUM-0265,Burger Shack,Mumbai,Dadar,Fast Food,Budget,4.1,81,200,28,Yes,2021,481800,438100
+PUN-0266,Munch Point,Pune,Koregaon Park,Fast Food,Budget,3.0,45,130,,Yes,2024,197500,132300
+CHE-0267,Crispy Shack,Chennai,Adyar,Fast Food,Budget,3.9,276,130,24,No,2011,162800,103300
+PUN-0268,Napoli Cucina,Pune,Kothrud,Italian,Mid-range,4.1,,710,53,Yes,2010,1104800,783700
+DEL-0269,Munch Point,Delhi,Hauz Khas,Fast Food,Mid-range,4.4,62,260,28,Yes,2018,672900,529100
+AMD-0270,Dosa Kitchen,Ahmedabad,Satellite,South Indian,Budget,2.6,141,160,42,Yes,2017,312700,251400
+BLR-0271,Panda Express,Bengaluru,Jayanagar,Chinese,Mid-range,4.5,152,440,61,No,2015,837900,648700
+BLR-0272,Trattoria Table,Bengaluru,Whitefield,Italian,Premium,4.6,701,1390,109,Yes,2021,4538100,3807300
+DEL-0273,Goan Shack,Delhi,Connaught Place,Seafood,Mid-range,4.7,10,1160,59,No,2022,2633500,2148400
+PUN-0274,Panda Garden,Pune,Baner,Chinese,Budget,3.5,18,220,42,Yes,2024,82300,
+JAI-0275,Wok Express,Jaipur,C-Scheme,Fast Food,Budget,3.8,,100,25,Yes,2022,182800,119400
+BLR-0276,Handi Corner,Bengaluru,Indiranagar,North Indian,Mid-range,4.8,117,500,53,No,2011,640600,535000
+DEL-0277,Madras Bhavan,Delhi,Hauz Khas,South Indian,Budget,3.6,43,280,47,Yes,2022,473700,373900
+BLR-0278,Urban Plaza,Bengaluru,Jayanagar,Multi-cuisine,Mid-range,3.8,57,710,228,Yes,2019,3156800,2428600
+JAI-0279,Noodle Bowl,Jaipur,C-Scheme,Chinese,Mid-range,4.1,14,370,99,Yes,2021,965400,760600
+CHE-0280,Handi Darbar,Chennai,T. Nagar,North Indian,Premium,3.8,147,840,31,Yes,2021,626000,508400
+CHE-0281,Wok Palace,Chennai,Mylapore,Chinese,Budget,4.6,111,270,70,Yes,2017,543900,601400
+HYD-0282,Olive Table,Hyderabad,Gachibowli,Italian,Premium,3.0,146,1220,42,Yes,2008,1228400,998500
+BLR-0283,Dosa Cafe,Bengaluru,HSR Layout,South Indian,Mid-range,,26,200,32,Yes,2019,340300,270600
+JAI-0284,Brasserie Table,Jaipur,Vaishali Nagar,Continental,Mid-range,,52,640,87,Yes,2019,1219100,952500
+PUN-0285,Kebab Mahal,Pune,Pimpri,Mughlai,Premium,4.7,61,940,44,No,2021,800400,759000
+PUN-0286,Sapphire Banquet,Pune,Pimpri,Multi-cuisine,Mid-range,4.5,72,470,101,Yes,2025,,282800
+HYD-0287,Swad House,Hyderabad,Gachibowli,North Indian,Mid-range,3.4,51,550,35,No,2020,274100,243000
+HYD-0288,Dosa Kitchen,Hyderabad,Jubilee Hills,South Indian,Mid-range,3.4,26,320,52,Yes,2023,764000,496700
+PUN-0289,Burger Box,Pune,Camp,Fast Food,Mid-range,4.2,36,210,49,Yes,2020,659700,570900
+AMD-0290,Nacho House,Ahmedabad,Maninagar,Mexican,Mid-range,3.6,222,,163,Yes,2011,,1783400
+JAI-0291,Panda Hub,Jaipur,Mansarovar,Chinese,Budget,4.0,685,240,68,Yes,2012,413700,323300
+HYD-0292,Zaika Corner,Hyderabad,Gachibowli,North Indian,Budget,3.8,469,300,51,Yes,2020,488400,360000
+PUN-0293,Saravana Point,Pune,Viman Nagar,South Indian,Budget,4.0,43,190,33,Yes,2022,299100,237500
+DEL-0294,Ambrosia Kitchen,Delhi,Saket,Multi-cuisine,Premium,3.8,415,1040,165,Yes,2016,2123300,1887600
+PUN-0295,Wok Express,Pune,Viman Nagar,Mughlai,Premium,4.4,273,750,91,No,2013,1420500,1225700
+BLR-0296,Crumbs Studio,Bengaluru,Indiranagar,Bakery & Desserts,Premium,,101,490,52,Yes,2023,1041200,752100
+AMD-0297,Burrito Co.,Ahmedabad,SG Highway,Mexican,Mid-range,4.5,406,480,65,Yes,2014,1247800,927000
+MUM-0298,Biryani Kitchen,Mumbai,Borivali,Biryani,Mid-range,4.0,462,270,81,Yes,2014,1192600,904200
+DEL-0299,Dhaba Express,Delhi,Karol Bagh,North Indian,Mid-range,4.2,21,550,47,Yes,2020,810700,820000
+KOL-0300,Noodle Bowl,Kolkata,Salt Lake,Chinese,Budget,3.8,129,190,43,Yes,2022,174200,148100
+DEL-0301,Tadka Express,Delhi,Saket,North Indian,Mid-range,3.6,443,580,176,Yes,2023,2796000,2186500
+DEL-0302,Awadhi House,Delhi,Dwarka,Biryani,Budget,3.6,269,380,55,Yes,2015,651300,591500
+MUM-0303,Jade Palace,Mumbai,Colaba,Chinese,Premium,4.0,87,650,77,Yes,2024,1100600,849100
+JAI-0304,Heritage Plaza,Jaipur,C-Scheme,Multi-cuisine,Premium,4.7,506,,320,Yes,2020,2445500,2065700
+KOL-0305,Mocha Roasters,Kolkata,Park Street,Cafe,Mid-range,4.3,128,220,25,Yes,2013,304500,286100
+DEL-0306,Hyderabadi Centre,Delhi,Connaught Place,Biryani,Luxury,4.2,122,1130,31,Yes,2018,2158600,1945500
+AMD-0307,Swad Kitchen,Ahmedabad,Satellite,North Indian,Budget,3.2,55,270,52,No,2023,190500,163500
+AMD-0308,Pasta Table,Ahmedabad,Navrangpura,Italian,Budget,3.1,566,540,90,No,2016,1404300,1112800
+JAI-0309,Latte Cafe,Jaipur,Mansarovar,Cafe,Mid-range,4.1,43,430,29,No,2020,543100,479200
+NAG-0310,Brew Lab,Nagpur,Manish Nagar,Cafe,Mid-range,4.6,349,240,35,No,2010,275300,226800
+BLR-0311,Sweet House,Bengaluru,Koramangala,Bakery & Desserts,Mid-range,3.7,42,290,21,Yes,2025,208900,178000
+CHE-0312,Dosa Kitchen,Chennai,Anna Nagar,South Indian,Budget,3.6,280,180,,Yes,2017,466400,359200
+MUM-0313,Sweet Co.,Mumbai,Dadar,Bakery & Desserts,Mid-range,4.6,606,280,27,No,2013,374200,262600
+PUN-0314,Sushi Room,Pune,Koregaon Park,Japanese,Luxury,,56,4110,29,No,2018,4457900,3292500
+PUN-0315,Lucknowi Handi,Pune,Baner,Biryani,Budget,4.3,111,320,66,Yes,2023,909200,683700
+PUN-0316,Swad Kitchen,Pune,Camp,North Indian,Mid-range,4.4,28,420,104,No,2022,891500,743300
+CHE-0317,Dragon Bowl,Chennai,Adyar,Chinese,Mid-range,4.1,243,420,70,Yes,2007,1018600,809700
+MUM-0318,Sizzle Hub,Mumbai,Lower Parel,Fast Food,Budget,3.8,209,230,16,Yes,,185100,145000
+AMD-0319,Roma Cucina,Ahmedabad,Maninagar,Italian,Premium,4.2,209,860,103,Yes,2024,2130500,2021300
+NAG-0320,Thela Corner,Nagpur,Manish Nagar,Street Food,Budget,3.8,88,70,16,Yes,2014,71100,68900
+JAI-0321,Chopstick Hub,Jaipur,C-Scheme,Chinese,Mid-range,4.2,123,,55,No,2020,408000,305700
+CHE-0322,Napoli Kitchen,Chennai,Anna Nagar,Italian,Premium,3.3,220,1310,51,Yes,2022,1856100,1496000
+HYD-0323,Wrap Box,Hyderabad,Gachibowli,Fast Food,Budget,3.7,77,170,23,Yes,2021,208800,168500
+PUN-0324,Ramen Den,Pune,Kothrud,Japanese,Premium,3.1,68,1580,52,Yes,2022,2439400,2176800
+MUM-0325,Handi Corner,Mumbai,Powai,North Indian,Mid-range,4.1,125,500,48,No,2021,357500,278600
+BLR-0326,Roma Bistro,Bengaluru,Jayanagar,Italian,Mid-range,3.4,234,880,51,Yes,2014,1116900,911000
+AMD-0327,Paradise House,Ahmedabad,Satellite,Biryani,Mid-range,4.3,40,300,33,Yes,2019,782900,516300
+MUM-0328,Mughal Tales,Mumbai,Lower Parel,Mughlai,Premium,4.8,,1100,94,No,2021,1781400,1699700
+BLR-0329,Atlas Room,Bengaluru,Jayanagar,Continental,Luxury,4.4,178,1770,81,No,2012,4930700,4783800
+KOL-0330,Punjabi Corner,Kolkata,,North Indian,Premium,4.3,258,440,79,Yes,2018,,853800
+JAI-0331,Maple Kitchen,Jaipur,Vaishali Nagar,Continental,Premium,4.5,103,890,80,No,2018,,2096900
+MUM-0332,Idli Point,Mumbai,Powai,South Indian,Budget,2.1,265,160,38,Yes,2012,208000,157900
+PUN-0333,Handi Express,Pune,Baner,North Indian,Premium,4.6,31,570,37,No,2015,281700,242100
+AMD-0334,Swad Darbar,Ahmedabad,Navrangpura,North Indian,Budget,,,240,63,Yes,2018,492800,372200
+MUM-0335,Nizam Kitchen,Mumbai,Dadar,Mughlai,Mid-range,4.1,106,640,57,Yes,,1223800,791300
+PUN-0336,Chopstick Bowl,Pune,Baner,Chinese,Mid-range,4.1,164,320,124,Yes,2016,703700,578500
+HYD-0337,Sizzle Hub,Hyderabad,Jubilee Hills,Fast Food,Mid-range,3.9,241,160,38,Yes,1998,628900,466400
+CHE-0338,Nukkad Point,Chennai,Velachery,Street Food,Budget,3.9,42,70,4,Yes,2019,85000,61000
+DEL-0339,Dosa Cafe,Delhi,Hauz Khas,South Indian,Mid-range,4.2,91,200,30,Yes,2022,284600,210900
+AMD-0340,Zaika Kitchen,Ahmedabad,SG Highway,North Indian,Premium,4.1,130,500,81,Yes,2021,1788700,1523500
+HYD-0341,Tide Shack,Hyderabad,Jubilee Hills,Seafood,Premium,4.8,157,760,48,Yes,2021,1332700,1033800
+DEL-0342,Dragon Hub,Delhi,Karol Bagh,Chinese,Mid-range,4.3,328,350,82,Yes,2021,550700,395900
+DEL-0343,Burger Stop,Delhi,Karol Bagh,Fast Food,Budget,4.0,56,170,28,Yes,2020,381800,319400
+DEL-0344,Goan Grill,Delhi,Saket,Seafood,Mid-range,3.4,56,700,65,No,2022,1264600,1129700
+MUM-0345,Roma House,Mumbai,Powai,Italian,Luxury,4.1,120,2870,82,Yes,2024,12802600,9170500
+PUN-0346,Burger Point,Pune,Baner,Fast Food,Budget,4.9,,190,30,Yes,2004,357600,310500
+JAI-0347,Swad House,Jaipur,Mansarovar,North Indian,Premium,4.5,215,580,143,Yes,2017,5305300,4235300
+BLR-0348,Rasoi House,Bengaluru,Whitefield,North Indian,Premium,4.1,138,690,81,Yes,2007,2612000,2101700
+JAI-0349,Hyderabadi Point,Jaipur,Mansarovar,Biryani,Mid-range,3.5,76,240,46,Yes,2007,501900,408000
+HYD-0350,Dhaba Junction,Hyderabad,Madhapur,North Indian,Premium,3.5,316,680,85,Yes,2016,1102300,1019500
+NAG-0351,Basilico House,Nagpur,Sitabuldi,Italian,Mid-range,4.3,46,560,64,No,2019,641400,521600
+MUM-0352,Lucky Palace,Mumbai,Colaba,Chinese,Premium,,152,700,83,Yes,2020,1213300,1176700
+BLR-0353,Dhaba Kitchen,Bengaluru,Indiranagar,North Indian,Mid-range,3.1,278,440,58,Yes,2018,457500,448900
+CHE-0354,La Piazza Co.,Chennai,Adyar,Italian,Premium,,,560,96,Yes,2023,1643900,1187000
+HYD-0355,Taco Loco,Hyderabad,Jubilee Hills,Mexican,Premium,4.3,213,630,73,Yes,2016,984500,949100
+BLR-0356,Paradise Handi,Bengaluru,Whitefield,Biryani,Budget,3.3,290,310,95,Yes,2019,1254900,861800
+NAG-0357,Fry Hub,Nagpur,Sitabuldi,Fast Food,Budget,3.8,176,130,32,Yes,2021,285100,225200
+BLR-0358,Kerala Kitchen,Bengaluru,Whitefield,South Indian,Budget,,14,160,28,Yes,2015,199900,107900
+DEL-0359,Tadka Express,Delhi,Hauz Khas,North Indian,Mid-range,3.5,102,540,145,No,2022,2587400,1903600
+AMD-0360,Oak Bistro,Ahmedabad,Navrangpura,Continental,Mid-range,4.5,81,670,75,No,2020,1154200,997100
+KOL-0361,Handi Corner,Kolkata,Park Street,North Indian,Budget,3.8,69,370,94,Yes,2014,1382000,1156700
+HYD-0362,Sapphire Kitchen,Hyderabad,Madhapur,Multi-cuisine,Mid-range,4.8,539,,269,No,2008,1595400,1027300
+BLR-0363,Dosa Kitchen,Bengaluru,Whitefield,South Indian,Mid-range,3.3,158,210,47,No,2007,427900,328300
+BLR-0364,Noodle Bowl,Bengaluru,HSR Layout,Chinese,Mid-range,3.5,304,560,119,Yes,2024,1358600,1119000
+PUN-0365,Pani Puri Corner,Pune,Viman Nagar,Street Food,Budget,3.8,310,100,26,Yes,2007,210300,167300
+NAG-0366,Sizzle Point,Nagpur,Dharampeth,Fast Food,Budget,4.5,49,120,24,Yes,2019,,178200
+AMD-0367,Dragon Express,Ahmedabad,SG Highway,Chinese,Mid-range,4.3,170,,127,Yes,2021,1016200,834400
+HYD-0368,Wok Express,Hyderabad,Banjara Hills,Seafood,Mid-range,4.0,59,510,46,Yes,2021,966700,
+KOL-0369,Heritage Dine,Kolkata,Ballygunge,Multi-cuisine,Mid-range,3.5,61,560,212,No,,1381800,1181600
+BLR-0370,Desi House,Bengaluru,Whitefield,North Indian,Mid-range,3.9,102,490,31,Yes,2016,714200,769300
+PUN-0371,Quick Shack,Pune,Kothrud,Fast Food,Budget,3.9,,150,19,Yes,2021,137000,93700
+PUN-0372,Chai Studio,Pune,Pimpri,Cafe,Premium,3.5,93,830,21,Yes,2021,916200,727300
+KOL-0373,Cantina Bar,Kolkata,Park Street,Mexican,Mid-range,3.8,784,450,78,Yes,1998,1094600,720300
+DEL-0374,Cuppa Roasters,Delhi,Lajpat Nagar,Cafe,Premium,3.7,281,650,29,No,2016,,
+CHE-0375,Dragon Bowl,Chennai,Velachery,Chinese,Premium,4.9,115,540,122,Yes,2022,1672700,1214000
+MUM-0376,Roast Lab,Mumbai,Andheri,Cafe,Mid-range,4.1,42,400,38,No,2024,,387200
+AMD-0377,Udupi Kitchen,Ahmedabad,Maninagar,South Indian,Budget,3.8,291,120,51,Yes,2019,246400,187900
+CHE-0378,Latte Cafe,Chennai,Mylapore,Cafe,Mid-range,3.6,128,270,29,No,2007,261300,258500
+NAG-0379,Bite Box,Nagpur,Manish Nagar,Fast Food,Budget,3.8,20,150,35,Yes,2024,404600,335800
+PUN-0380,Burger Hub,Pune,Camp,North Indian,Budget,,,370,61,Yes,2019,946000,807100
+MUM-0381,Sugar Bakery,Mumbai,Powai,Bakery & Desserts,Mid-range,4.3,221,380,57,Yes,2013,1250900,1089700
+AMD-0382,Trattoria Table,Ahmedabad,Satellite,Italian,Premium,3.8,87,620,62,No,2020,873400,713700
+KOL-0383,Hearth Kitchen,Kolkata,Howrah,Continental,Mid-range,4.4,64,630,73,Yes,2025,2299500,2015000
+MUM-0384,Dosa Express,Mumbai,Powai,Mexican,Budget,3.3,50,470,74,Yes,2020,1088000,
+JAI-0385,Bite Box,Jaipur,Mansarovar,Fast Food,Budget,4.4,194,150,11,No,2020,114200,81800
+PUN-0386,Udupi Tiffins,Pune,Hinjewadi,South Indian,Mid-range,2.8,52,210,49,Yes,2019,293900,
+MUM-0387,Kebab Khana,Mumbai,Andheri,Mughlai,Mid-range,4.5,102,730,58,Yes,2011,883200,622800
+MUM-0388,Handi House,Mumbai,Bandra,North Indian,Mid-range,4.2,75,540,32,No,2021,,399500
+MUM-0389,Cake Bakery,Mumbai,Andheri,Bakery & Desserts,Mid-range,4.4,48,310,34,Yes,2023,602700,478700
+DEL-0390,Mughal House,Delhi,Karol Bagh,Mughlai,Mid-range,4.0,571,660,137,No,2016,1877500,1613200
+HYD-0391,Mysore Cafe,Hyderabad,Gachibowli,South Indian,Mid-range,4.0,74,230,44,Yes,2021,571200,420400
+MUM-0392,Sizzle Box,Mumbai,Powai,Fast Food,Budget,3.4,77,190,18,Yes,2021,198000,185500
+PUN-0393,Atlas House,Pune,Pimpri,Continental,Mid-range,4.2,34,850,67,No,2023,1598800,1247400
+NAG-0394,Pasta House,Nagpur,Manish Nagar,Italian,Premium,3.6,194,750,69,Yes,2024,1409000,
+MUM-0395,Cuppa Roasters,Mumbai,Colaba,Cafe,Mid-range,4.0,96,620,23,Yes,2008,773600,633100
+NAG-0396,Provence Table,Nagpur,Manish Nagar,Continental,Mid-range,3.8,77,400,69,Yes,2009,537700,348000
+CHE-0397,Fry Hub,Chennai,,Fast Food,Mid-range,3.4,229,250,40,Yes,2022,964000,777100
+BLR-0398,Quick Hub,Bengaluru,Jayanagar,Fast Food,Budget,3.4,378,190,25,Yes,2017,461100,324900
+PUN-0399,Quick Shack,Pune,Kothrud,Fast Food,Budget,4.4,45,220,25,Yes,2020,350800,219100
+HYD-0400,La Piazza Co.,Hyderabad,Jubilee Hills,Italian,Premium,4.2,,780,60,Yes,2015,1804300,1197100
+HYD-0401,Sakura Bar,Hyderabad,Secunderabad,Japanese,Mid-range,3.8,153,1010,108,Yes,2022,2089900,1600800
+JAI-0402,Chai Point,Jaipur,Malviya Nagar,Fast Food,Mid-range,3.2,14,250,41,Yes,2018,596000,373200
+BLR-0403,Tadka Kitchen,Bengaluru,Indiranagar,North Indian,Luxury,4.2,111,1250,128,Yes,2022,2385600,2249700
+HYD-0404,Nawabi Kitchen,Hyderabad,Banjara Hills,Biryani,Premium,4.3,211,470,39,Yes,2008,1355900,951100
+NAG-0405,Heritage Dine,Nagpur,Dharampeth,Multi-cuisine,Mid-range,4.3,93,590,128,Yes,2020,1285500,
+MUM-0406,Dhaba House,Mumbai,Bandra,North Indian,Mid-range,4.4,93,590,46,Yes,2021,504200,359600
+KOL-0407,Izakaya Kitchen,Kolkata,Howrah,Japanese,Premium,4.4,101,1280,78,Yes,2019,2768500,2154700
+DEL-0408,Tadka Darbar,Delhi,,North Indian,Mid-range,3.7,57,470,47,Yes,2024,887300,
+JAI-0409,Brasserie Table,Jaipur,Mansarovar,Continental,Premium,4.6,816,640,62,Yes,2017,2180000,1994900
+MUM-0410,Lucky Garden,Mumbai,Borivali,Chinese,Mid-range,4.2,588,400,27,No,2007,320400,297500
+HYD-0411,Brew Co.,Hyderabad,Madhapur,Cafe,Mid-range,3.3,485,250,44,Yes,2016,363700,250500
+CHE-0412,Bean Co.,Chennai,Velachery,Cafe,Budget,3.5,163,250,41,Yes,2013,251200,181800
+MUM-0413,The Grill House,Mumbai,Powai,Continental,Mid-range,4.1,56,700,55,Yes,2021,900600,847800
+DEL-0414,Grand Kitchen,Delhi,Lajpat Nagar,Multi-cuisine,Premium,4.8,289,1200,137,No,2016,1413300,1085400
+PUN-0415,Mysore Mess,Pune,Pimpri,South Indian,Budget,4.2,156,250,39,Yes,2018,764400,649800
+KOL-0416,Nawabi Point,Kolkata,Howrah,Biryani,Mid-range,4.2,277,240,62,No,2020,669500,
+AMD-0417,Nawabi Point,Ahmedabad,Satellite,Biryani,Mid-range,4.4,117,250,36,No,2017,407900,284100
+JAI-0418,Lemongrass House,Jaipur,Vaishali Nagar,Thai,Premium,4.0,140,840,126,Yes,2023,2193500,1768500
+KOL-0419,Desi Kitchen,Kolkata,Howrah,North Indian,Mid-range,4.0,216,410,112,No,2018,747000,625000
+AMD-0420,Daily Grind Roasters,Ahmedabad,Maninagar,Cafe,Mid-range,3.9,62,270,30,Yes,,624000,525400
+MUM-0421,Tadka Kitchen,Mumbai,Powai,North Indian,Mid-range,4.2,188,460,133,Yes,2016,2380100,2002100
+BLR-0422,Crumbs Bakery,Bengaluru,Indiranagar,Bakery & Desserts,Mid-range,4.1,43,320,36,Yes,2015,,
+DEL-0423,Chaat Point,Delhi,Saket,Street Food,Budget,4.0,110,110,28,Yes,2021,246500,156000
+BLR-0424,Mocha Co.,Bengaluru,Indiranagar,Cafe,Budget,4.1,158,260,43,No,2014,453800,331500
+PUN-0425,Dragon Bowl,Pune,Koregaon Park,Chinese,Budget,3.9,21,210,35,No,2024,,170800
+MUM-0426,Chai Social,Mumbai,Bandra,Cafe,Mid-range,3.7,184,540,32,No,2013,1041500,
+DEL-0427,Burger Shack,Delhi,Hauz Khas,Fast Food,Budget,3.7,35,190,16,Yes,2017,156200,141700
+JAI-0428,Umami Den,Jaipur,Malviya Nagar,Japanese,Premium,4.4,942,1340,96,Yes,2017,5723200,4111100
+CHE-0429,Wrap Box,Chennai,,Fast Food,Budget,,190,110,22,Yes,2011,263100,172300
+BLR-0430,Maple & Co.,Bengaluru,Whitefield,Continental,Luxury,4.0,128,2370,65,Yes,2018,4286200,3394700
+BLR-0431,Nawabi House,Bengaluru,Koramangala,Biryani,Budget,3.8,10,270,29,No,2020,,430800
+CHE-0432,Quick Stop,Chennai,Anna Nagar,Fast Food,Mid-range,4.7,55,170,56,Yes,2020,585000,
+MUM-0433,Brasserie Table,Mumbai,Bandra,Continental,Mid-range,4.0,187,1020,121,No,2020,2447900,2171700
+MUM-0434,Punjabi Junction,Mumbai,Andheri,North Indian,Premium,4.4,473,710,93,Yes,2011,1520700,962200
+JAI-0435,Swad Corner,Jaipur,Malviya Nagar,North Indian,Mid-range,4.1,49,300,108,Yes,2020,617800,423700
+PUN-0436,Mocha Social,Pune,Camp,Cafe,Mid-range,5.0,52,380,62,No,2024,558300,491900
+HYD-0437,Spice Garden,Hyderabad,Gachibowli,Multi-cuisine,Luxury,4.3,140,1610,90,No,2020,1883200,1693500
+KOL-0438,Pani Puri Point,Kolkata,Salt Lake,Street Food,Budget,3.9,11,90,18,Yes,2025,77100,59300
+HYD-0439,Handi Darbar,Hyderabad,Secunderabad,North Indian,Budget,3.8,178,190,40,Yes,,155500,125100
+AMD-0440,Bean Co.,Ahmedabad,Maninagar,Cafe,Budget,4.1,75,270,34,Yes,2015,622600,
+HYD-0441,Sizzle Corner,Hyderabad,Jubilee Hills,Fast Food,Premium,4.0,98,270,35,No,2017,437100,276000
+MUM-0442,Bite Corner,Mumbai,Lower Parel,Fast Food,Budget,3.6,17,130,21,Yes,2019,125800,96900
+CHE-0443,Cedar & Co.,Chennai,Anna Nagar,Continental,Premium,3.9,402,1110,42,Yes,2017,1675500,
+MUM-0444,Thai Kitchen,Mumbai,Colaba,Thai,Mid-range,3.8,47,620,65,Yes,2023,1601700,1388800
+BLR-0445,Sizzle Hub,Bengaluru,Whitefield,Fast Food,Mid-range,4.2,233,230,26,Yes,2009,368500,248700
+MUM-0446,Roast Lab,Mumbai,Powai,Cafe,Mid-range,4.0,255,490,36,Yes,2020,834300,760600
+BLR-0447,Udupi Mess,Bengaluru,Jayanagar,South Indian,Mid-range,4.0,49,220,75,Yes,2019,646800,
+PUN-0448,Biryani Handi,Pune,Pimpri,Biryani,Mid-range,4.5,77,440,50,Yes,2020,1164400,1044800
+MUM-0449,Chai Roasters,Mumbai,Bandra,Cafe,Mid-range,3.9,102,460,40,Yes,2024,667700,654100
+PUN-0450,Mysore Kitchen,Pune,Viman Nagar,South Indian,Premium,4.7,208,310,65,Yes,2012,399600,329000
+PUN-0451,Bite Hub,Pune,Koregaon Park,Fast Food,Budget,3.7,156,130,35,Yes,2022,309500,267200
+MUM-0452,Nizam House,Mumbai,Borivali,Mughlai,Mid-range,3.9,145,650,54,Yes,2021,479400,417300
+PUN-0453,Desi Kitchen,Pune,Camp,North Indian,Mid-range,4.5,173,460,97,No,2014,755100,
+HYD-0454,Grand Plaza,Hyderabad,Banjara Hills,Multi-cuisine,Mid-range,3.7,162,540,223,No,2010,1685000,1212100
+AMD-0455,Crumbs Bakery,Ahmedabad,SG Highway,Bakery & Desserts,Premium,,149,340,67,No,2016,755600,686000
+CHE-0456,Roast Studio,Chennai,Velachery,Cafe,Budget,4.2,22,270,14,Yes,2020,,124500
+JAI-0457,Dum Centre,Jaipur,Malviya Nagar,Biryani,Mid-range,4.6,86,260,36,Yes,2021,388800,274500
+BLR-0458,Desi Express,Bengaluru,HSR Layout,North Indian,Budget,3.8,123,340,72,No,2018,821000,645800
+NAG-0459,Sultan Tales,Nagpur,Manish Nagar,Mughlai,Mid-range,4.3,47,510,43,Yes,2021,550500,375600
+HYD-0460,Jade Bowl,Hyderabad,Banjara Hills,Chinese,Budget,3.6,7,260,,No,2023,241300,198200
+CHE-0461,La Piazza Cucina,Chennai,Velachery,Italian,Premium,5.0,1329,1080,71,Yes,2012,3116000,2946700
+MUM-0462,Provence & Co.,Mumbai,Lower Parel,Continental,Premium,3.5,347,1660,115,No,2016,6775200,5292500
+KOL-0463,Dough Patisserie,Kolkata,Salt Lake,Bakery & Desserts,Mid-range,3.5,44,180,25,Yes,2023,203400,158800
+MUM-0464,Atlas Kitchen,Mumbai,Andheri,Continental,Premium,,,1220,104,No,2021,1653900,1127500
+AMD-0465,Sugar Studio,Ahmedabad,Navrangpura,Bakery & Desserts,Budget,3.8,181,230,25,Yes,2024,318100,278000
+KOL-0466,Nukkad Stall,Kolkata,Park Street,Street Food,Budget,3.6,38,80,14,Yes,2023,113800,65200
+DEL-0467,Roast Social,Delhi,Dwarka,Cafe,Mid-range,3.7,93,600,30,Yes,2024,823900,651800
+MUM-0468,La Piazza Cucina,Mumbai,Colaba,Italian,Mid-range,4.7,228,850,59,Yes,2011,918800,815500
+NAG-0469,Salsa Bar,Nagpur,Sitabuldi,Mexican,Mid-range,3.7,359,570,48,Yes,2020,998200,805400
+HYD-0470,Zaika House,Hyderabad,Banjara Hills,North Indian,Premium,4.1,132,590,55,Yes,2017,1247800,847300
+AMD-0471,Swad Express,Ahmedabad,Satellite,North Indian,Premium,3.9,275,550,88,No,2012,952000,620200
+HYD-0472,Atlas Bistro,Hyderabad,Jubilee Hills,Continental,Luxury,4.8,101,2180,100,No,2009,4283100,3916900
+MUM-0473,Sev Wala,Mumbai,Andheri,Street Food,Budget,3.8,39,130,27,No,2014,276300,225300
+NAG-0474,Basilico House,Nagpur,Dharampeth,Italian,Luxury,4.4,173,1740,73,Yes,2014,4983900,3883400
+HYD-0475,Basilico Cucina,Hyderabad,Madhapur,Italian,Mid-range,4.3,480,690,54,No,2017,757300,783000
+DEL-0476,Dosa Express,Delhi,Lajpat Nagar,Mughlai,Premium,,237,840,126,Yes,2023,4353800,3871100
+CHE-0477,Gully Corner,Chennai,Velachery,Street Food,Budget,3.4,525,90,47,Yes,2011,184700,121500
+MUM-0478,Chopstick Hub,Mumbai,Powai,Chinese,Budget,4.2,115,290,78,Yes,2023,439500,415400
+BLR-0479,Dum Darbar,Bengaluru,Koramangala,Biryani,Budget,4.2,250,230,56,Yes,2016,926200,584700
+PUN-0480,Rasoi Express,Pune,Hinjewadi,North Indian,Budget,4.0,38,320,59,No,2022,282500,215400
+HYD-0481,Handi Junction,Hyderabad,Secunderabad,North Indian,Premium,3.8,66,480,45,Yes,2021,488600,391100
+MUM-0482,La Piazza Co.,Mumbai,Colaba,Italian,Mid-range,4.3,271,830,43,Yes,2007,1597400,1209100
+KOL-0483,Idli Mess,Kolkata,Ballygunge,South Indian,Mid-range,3.5,172,220,38,Yes,2011,509800,336200
+AMD-0484,Dosa Express,Ahmedabad,Maninagar,Italian,Mid-range,4.7,171,640,42,No,2022,505300,419700
+CHE-0485,Kebab Khana,Chennai,Mylapore,Mughlai,Premium,4.2,63,730,65,Yes,2018,1653700,1393100
+NAG-0486,Udupi Cafe,Nagpur,Sitabuldi,South Indian,Premium,4.2,324,260,46,No,2011,466300,366200
+BLR-0487,Latte Roasters,Bengaluru,Whitefield,Cafe,Mid-range,4.2,1188,340,32,No,2016,473100,363600
+HYD-0488,Matsu Kitchen,Hyderabad,Jubilee Hills,Japanese,Luxury,3.9,126,3510,88,No,2023,8805800,7754900
+MUM-0489,Coastal Table,Mumbai,Bandra,Seafood,Mid-range,3.4,227,1030,55,No,2016,1269700,876900
+JAI-0490,Bean Studio,Jaipur,C-Scheme,Cafe,Budget,3.8,37,140,66,No,2016,310600,255900
+KOL-0491,Chopstick Bowl,Kolkata,Howrah,Chinese,Budget,3.9,43,290,105,No,2020,755300,575000
+HYD-0492,Tide Grill,Hyderabad,Jubilee Hills,Seafood,Premium,3.8,28,1050,,Yes,2014,3357000,2652600
+KOL-0493,Lucknowi Kitchen,Kolkata,New Town,Biryani,Premium,3.9,80,380,61,Yes,2023,1103200,841500
+PUN-0494,Wrap Point,Pune,Kothrud,Fast Food,Budget,4.5,128,160,27,Yes,2009,284900,191700
+CHE-0495,Oak Table,Chennai,Mylapore,Continental,Mid-range,4.0,44,620,90,Yes,2018,1698500,1237400
+PUN-0496,Olive Cucina,Pune,Hinjewadi,Italian,Budget,3.9,196,540,54,Yes,2018,1155300,972100
+DEL-0497,Spice Dine,Delhi,Connaught Place,Multi-cuisine,Budget,4.5,752,460,196,No,2020,2145800,1980200
+PUN-0498,Daily Grind Co.,Pune,Hinjewadi,Cafe,Mid-range,,185,350,40,Yes,2015,585200,503700
+MUM-0499,Burger Hub,Mumbai,Andheri,Mughlai,Premium,3.4,313,960,87,No,2009,1377200,1142500
+BLR-0500,Roma Kitchen,Bengaluru,Jayanagar,Italian,Budget,4.8,82,550,48,Yes,2024,794800,770000
+MUM-0501,Bella Table,Mumbai,Lower Parel,Italian,Premium,4.0,23,1320,69,Yes,2024,1751500,1088400
+JAI-0502,Heritage Banquet,Jaipur,Vaishali Nagar,Multi-cuisine,Mid-range,4.0,2214,510,115,No,,1182300,1039200
+CHE-0503,Mughal Darbar,Chennai,Velachery,Mughlai,Mid-range,4.4,418,520,,Yes,2022,2281600,1918100
+PUN-0504,Brew Lab,Pune,Viman Nagar,Cafe,Budget,4.3,270,260,45,Yes,2020,534900,429600
+BLR-0505,Chilli Table,Bengaluru,Indiranagar,Thai,Mid-range,4.7,283,510,83,Yes,2024,1130200,1065600
+HYD-0506,Chai Roasters,Hyderabad,Madhapur,Cafe,Mid-range,3.9,90,300,37,Yes,2020,472000,351400
+NAG-0507,Sapphire Terrace,Nagpur,Sitabuldi,Multi-cuisine,Luxury,4.0,255,1130,337,No,2021,2762000,2352600
+PUN-0508,Monsoon Terrace,Pune,Camp,Multi-cuisine,Budget,4.5,121,540,97,No,2023,685300,597900
+KOL-0509,Goan Grill,Kolkata,Park Street,Seafood,Premium,4.0,179,820,37,Yes,2017,868800,605100
+AMD-0510,Brew Roasters,Ahmedabad,SG Highway,Cafe,Budget,4.2,172,270,28,No,2018,295700,224400
+PUN-0511,Nizam House,Pune,Viman Nagar,Mughlai,Premium,3.5,,830,71,Yes,2025,3005800,2654900
+DEL-0512,Olive Bistro,Delhi,Hauz Khas,Italian,Mid-range,4.3,306,770,66,Yes,2021,1077900,884900
+BLR-0513,Roast Studio,Bengaluru,,Cafe,Mid-range,4.0,33,380,22,Yes,2021,420400,273300
+PUN-0514,Heritage Banquet,Pune,Kothrud,Multi-cuisine,Premium,4.4,210,1240,,Yes,2018,2274800,2272400
+DEL-0515,Roma Bistro,Delhi,Connaught Place,Italian,Luxury,4.2,28,1980,27,Yes,2010,2356700,1819400
+JAI-0516,Chai Roasters,Jaipur,Malviya Nagar,Cafe,Premium,4.2,138,460,58,No,2022,889900,797300
+HYD-0517,Chopstick Express,Hyderabad,Secunderabad,Chinese,Premium,4.2,19,520,81,Yes,2019,1490200,1169900
+BLR-0518,Punjabi Express,Bengaluru,Koramangala,North Indian,Budget,3.8,469,440,102,No,,1062200,1047700
+CHE-0519,Panda Express,Chennai,,Chinese,Luxury,4.2,114,920,78,Yes,2007,1775200,1437900
+JAI-0520,Brew Studio,Jaipur,Malviya Nagar,Cafe,Mid-range,4.6,30,340,20,Yes,2020,358000,215100
+KOL-0521,Cocoa Bakery,Kolkata,,Bakery & Desserts,Mid-range,4.2,78,150,41,No,2010,240600,215200
+PUN-0522,Roma Cucina,Pune,Viman Nagar,Italian,Premium,4.5,161,860,175,Yes,2019,7399700,5978100
+AMD-0523,Cedar & Co.,Ahmedabad,Navrangpura,Continental,Premium,4.9,206,960,51,Yes,2009,,1345900
+PUN-0524,Bite Corner,Pune,Pimpri,Fast Food,Mid-range,3.4,250,200,21,Yes,2003,334900,185100
+DEL-0525,Urban Kitchen,Delhi,Connaught Place,Multi-cuisine,Mid-range,4.2,363,830,178,No,2020,1550400,1317600
+BLR-0526,Ambrosia Garden,Bengaluru,Indiranagar,Multi-cuisine,Mid-range,3.3,959,600,121,Yes,2008,452000,456100
+MUM-0527,Oak House,Mumbai,Powai,Continental,Mid-range,4.2,22,1150,103,Yes,2024,2899700,2317400
+NAG-0528,Burger Shack,Nagpur,Manish Nagar,Fast Food,Budget,4.0,31,110,23,Yes,2017,138200,105100
+BLR-0529,Fry Shack,Bengaluru,HSR Layout,Fast Food,Budget,3.5,29,180,39,Yes,2022,257800,213900
+NAG-0530,Atlas & Co.,Nagpur,Manish Nagar,Continental,Mid-range,5.0,134,460,73,Yes,2023,280900,219900
+KOL-0531,Wok Express,Kolkata,New Town,Continental,Mid-range,4.2,459,570,83,No,,1136600,1010300
+PUN-0532,Roast Social,Pune,Camp,Cafe,Mid-range,3.6,37,420,67,No,2024,,816200
+NAG-0533,Punjabi Junction,Nagpur,Sitabuldi,North Indian,Premium,4.3,60,370,68,No,2023,,491200
+AMD-0534,Bella Table,Ahmedabad,Navrangpura,Italian,Luxury,3.1,77,2150,32,No,2023,,802200
+MUM-0535,Filter Mess,Mumbai,Lower Parel,South Indian,Budget,,30,300,39,Yes,2017,349400,
+PUN-0536,Noodle Garden,Pune,,Chinese,Mid-range,4.2,219,360,52,No,2018,489500,442100
+MUM-0537,Swad Kitchen,Mumbai,Colaba,North Indian,Mid-range,3.2,55,280,68,Yes,2022,371500,326800
+HYD-0538,Ramen Bar,Hyderabad,Banjara Hills,Japanese,Premium,3.3,178,1650,66,Yes,2020,2125100,1654000
+BLR-0539,Mughal Kitchen,Bengaluru,HSR Layout,Mughlai,Mid-range,4.0,658,510,83,No,2017,1219300,1150200
+PUN-0540,Brasserie House,Pune,Pimpri,Continental,Premium,3.9,675,1350,50,Yes,2020,2688100,1755900
+AMD-0541,Goan Wharf,Ahmedabad,Satellite,Seafood,Premium,3.9,23,1000,60,Yes,2020,845100,
+AMD-0542,Cedar Kitchen,Ahmedabad,Maninagar,Continental,Premium,3.7,404,920,158,Yes,2021,3896300,3663300
+HYD-0543,Fry Shack,Hyderabad,Jubilee Hills,Fast Food,Mid-range,3.6,65,170,24,Yes,2019,213800,
+DEL-0544,Jade House,Delhi,Hauz Khas,Chinese,Premium,4.4,38,710,72,No,2018,1078600,867200
+PUN-0545,Lucknowi Kitchen,Pune,Kothrud,Biryani,Mid-range,4.3,18,360,36,No,2023,673600,416800
+NAG-0546,Sultan Khana,Nagpur,Dharampeth,Mughlai,Mid-range,3.9,217,410,65,No,2022,313800,217500
+PUN-0547,Thela Point,Pune,Camp,Street Food,Budget,3.6,107,90,18,Yes,2015,73900,62400
+JAI-0548,Golden House,Jaipur,Malviya Nagar,Chinese,Budget,3.7,41,180,64,Yes,2020,201700,169200
+JAI-0549,Basilico Co.,Jaipur,Malviya Nagar,Italian,Premium,4.8,173,610,44,Yes,2021,510500,426500
+MUM-0550,Swad House,Mumbai,Andheri,North Indian,Budget,3.6,,390,40,Yes,2018,339200,332100
+HYD-0551,Dhaba Corner,Hyderabad,Banjara Hills,North Indian,Mid-range,3.9,78,360,43,Yes,2017,194400,185400
+DEL-0552,Goan Grill,Delhi,Hauz Khas,Seafood,Mid-range,4.8,142,950,82,Yes,2022,3077900,2745000
+NAG-0553,Wrap Corner,Nagpur,Dharampeth,Fast Food,Budget,4.0,687,180,15,Yes,2014,206900,142000
+KOL-0554,Bhel Adda,Kolkata,New Town,Street Food,Budget,3.3,409,60,18,Yes,2017,,67800
+PUN-0555,Wok Express,Pune,Pimpri,Mexican,Mid-range,3.5,49,470,157,No,2022,1077600,958600
+DEL-0556,Roma Kitchen,Delhi,Lajpat Nagar,Italian,Premium,4.6,106,1240,43,No,,895200,775300
+HYD-0557,Hearth House,Hyderabad,Jubilee Hills,Continental,Mid-range,4.1,256,780,61,No,2008,1143300,776700
+MUM-0558,Cuppa Roasters,Mumbai,Dadar,Cafe,Mid-range,3.8,601,560,28,No,2020,519000,421900
+HYD-0559,Provence Room,Hyderabad,Gachibowli,Continental,Premium,3.4,108,1240,77,Yes,2024,3422000,2547600
+PUN-0560,Chai Social,Pune,Kothrud,Cafe,Premium,3.7,547,,39,Yes,2013,560900,454300
+KOL-0561,Wok Express,Kolkata,Park Street,Biryani,Premium,3.5,114,500,54,Yes,2021,,562400
+KOL-0562,Fry Shack,Kolkata,Howrah,Fast Food,Budget,4.3,18,130,20,Yes,2021,230900,160100
+PUN-0563,Bite Hub,Pune,Pimpri,Fast Food,Budget,3.9,27,90,26,Yes,2020,,69800
+DEL-0564,Burger Hub,Delhi,Lajpat Nagar,Continental,Mid-range,3.5,372,1150,60,Yes,2011,2020000,1667700
+NAG-0565,Tadka House,Nagpur,Sitabuldi,North Indian,Budget,3.7,59,210,61,Yes,2008,532900,442800
+CHE-0566,Gully Stall,Chennai,Adyar,Street Food,Budget,4.6,259,80,16,Yes,2016,116900,80000
+MUM-0567,Pani Puri Junction,Mumbai,Dadar,Street Food,Budget,4.6,257,120,38,Yes,2006,357500,224800
+KOL-0568,Filter Mess,Kolkata,Park Street,South Indian,Mid-range,3.4,59,180,60,No,2015,383300,353400
+DEL-0569,Bangkok House,Delhi,Saket,Thai,Premium,4.1,149,1070,108,No,2021,2253300,1673200
+PUN-0570,Saravana Bhavan,Pune,Camp,South Indian,Mid-range,4.2,635,230,138,No,2011,1643300,1252800
+HYD-0571,Rasoi Express,Hyderabad,Jubilee Hills,North Indian,Premium,5.0,169,730,97,No,,2072000,2055200
+PUN-0572,Taco Grill,Pune,Baner,Mexican,Mid-range,3.9,34,610,81,No,2020,,783000
+HYD-0573,Burger Hub,Hyderabad,Secunderabad,Multi-cuisine,Premium,4.0,513,640,222,Yes,2021,2301600,1966000
+DEL-0574,Idli Tiffins,Delhi,Karol Bagh,South Indian,Budget,4.0,51,250,85,Yes,2012,597900,438800
+HYD-0575,Grand Plaza,Hyderabad,Gachibowli,Multi-cuisine,Premium,4.5,,800,337,Yes,2004,6623900,3950200
+CHE-0576,Tadka Express,Chennai,Anna Nagar,North Indian,Mid-range,3.3,,350,77,Yes,2023,893600,747100
+CHE-0577,Kerala Point,Chennai,Adyar,South Indian,Budget,3.8,55,180,24,No,2024,153500,96100
+NAG-0578,Royal Centre,Nagpur,Sitabuldi,Biryani,Mid-range,3.4,13,280,54,Yes,2024,785700,575600
+AMD-0579,Kerala Mess,Ahmedabad,SG Highway,South Indian,Budget,,60,150,132,Yes,,,538000
+JAI-0580,Catch Grill,Jaipur,Malviya Nagar,Seafood,Mid-range,4.6,103,410,87,Yes,2022,1112400,974900
+BLR-0581,Hyderabadi Darbar,Bengaluru,Indiranagar,Biryani,Budget,4.1,52,280,47,Yes,2025,444500,320600
+DEL-0582,Lotus House,Delhi,Hauz Khas,Thai,Mid-range,4.1,120,520,49,No,2009,413100,398000
+MUM-0583,Pizza Corner,Mumbai,Bandra,South Indian,Budget,,830,220,56,Yes,2005,461500,346300
+AMD-0584,Bella Table,Ahmedabad,Navrangpura,Italian,Mid-range,4.2,67,550,53,Yes,2018,897100,914200
+DEL-0585,Kerala Bhavan,Delhi,Lajpat Nagar,South Indian,Mid-range,3.9,74,280,52,No,2024,643700,476400
+CHE-0586,Swad Junction,Chennai,,North Indian,Premium,4.6,31,590,74,Yes,,,1370200
+DEL-0587,Rasoi Junction,Delhi,Hauz Khas,North Indian,Premium,4.3,147,830,118,Yes,2020,4375200,2651400
+MUM-0588,Brasserie Kitchen,Mumbai,,Continental,Budget,3.9,332,570,38,No,2012,689700,660200
+KOL-0589,Punjabi Kitchen,Kolkata,New Town,North Indian,Mid-range,4.1,438,340,72,Yes,2012,,542300
+MUM-0590,The Grill Room,Mumbai,Dadar,Continental,Budget,4.3,34,780,45,Yes,2022,948900,896600
+PUN-0591,Maple Table,Pune,Pimpri,Continental,Premium,3.4,142,1270,96,Yes,2004,3209200,2793400
+AMD-0592,Bite Point,Ahmedabad,Satellite,Fast Food,Mid-range,3.5,84,150,34,Yes,2020,304100,237000
+HYD-0593,Jade House,Hyderabad,Secunderabad,Chinese,Mid-range,,,270,92,No,2022,574000,406300
+AMD-0594,Bella Co.,Ahmedabad,Satellite,Italian,Premium,3.9,63,690,71,Yes,2007,,532800
+HYD-0595,Udupi Bhavan,Hyderabad,Madhapur,South Indian,Premium,4.0,19,590,45,Yes,2022,845200,693400
+PUN-0596,Munch Stop,Pune,Pimpri,Fast Food,Budget,4.1,33,130,34,Yes,,389500,224400
+BLR-0597,Heritage Garden,Bengaluru,Indiranagar,Multi-cuisine,Mid-range,4.2,67,710,200,Yes,2023,2729900,2373700
+DEL-0598,Royal House,Delhi,Dwarka,Biryani,Mid-range,4.3,182,390,59,Yes,2022,1554400,1320400
+BLR-0599,Dosa Express,Bengaluru,MG Road,South Indian,Budget,3.9,55,180,32,Yes,2021,303900,167000
+CHE-0600,Madras Bhavan,Chennai,Mylapore,South Indian,Budget,3.7,309,150,65,Yes,2017,563300,404800
+JAI-0601,Frosted Box,Jaipur,C-Scheme,Bakery & Desserts,Mid-range,4.4,,190,35,No,2022,309900,298800
+PUN-0602,Catch Grill,Pune,Koregaon Park,Seafood,Mid-range,4.2,160,720,58,No,2019,803500,632500
+PUN-0603,Chai Social,Pune,Kothrud,Cafe,Mid-range,4.1,68,470,37,No,2015,955200,720000
+MUM-0604,Grand Plaza,Mumbai,Andheri,Multi-cuisine,Premium,4.0,859,1190,83,Yes,2015,,2414900
+KOL-0605,Kebab Tales,Kolkata,New Town,Mughlai,Mid-range,3.7,266,510,63,Yes,2016,624700,598000
+KOL-0606,Burger Hub,Kolkata,Park Street,Fast Food,Mid-range,4.1,172,150,23,Yes,2021,247200,207600
+NAG-0607,Cake Co.,Nagpur,Sitabuldi,Bakery & Desserts,Mid-range,3.4,72,,33,Yes,2016,204200,173200
+DEL-0608,Coastal House,Delhi,Karol Bagh,Seafood,Premium,4.1,136,1580,79,Yes,2016,6724200,5273100
+AMD-0609,Thela Wala,Ahmedabad,SG Highway,Street Food,Budget,4.1,61,90,26,Yes,2021,176200,127200
+KOL-0610,Cedar & Co.,Kolkata,Ballygunge,Continental,Premium,4.0,13,700,39,No,2021,844300,624700
+PUN-0611,Kerala Bhavan,Pune,Pimpri,South Indian,Mid-range,3.7,50,230,87,Yes,2019,1363300,1160400
+MUM-0612,Mocha Social,Mumbai,Powai,Cafe,Budget,4.2,162,300,18,No,2019,225300,168800
+HYD-0613,Roma Kitchen,Hyderabad,Secunderabad,Italian,Mid-range,3.8,160,540,63,Yes,,1268200,1132500
+CHE-0614,Fisherman's Kitchen,Chennai,Anna Nagar,Seafood,Mid-range,4.4,50,850,89,No,2022,1708800,1605000
+MUM-0615,Cedar Room,Mumbai,Dadar,Continental,Premium,3.9,137,1250,56,No,2022,712000,638300
+BLR-0616,Fiesta Kitchen,Bengaluru,Indiranagar,Mexican,Premium,4.5,170,,70,No,2020,2512100,2321200
+PUN-0617,Hyderabadi Handi,Pune,Baner,Biryani,Budget,4.4,165,230,41,Yes,2018,378600,324300
+BLR-0618,Chaat Wala,Bengaluru,HSR Layout,Street Food,Mid-range,4.2,212,150,42,No,2010,411400,291100
+AMD-0619,Brasserie Bistro,Ahmedabad,SG Highway,Continental,Mid-range,4.1,384,560,63,No,2016,930100,809100
+AMD-0620,Chopstick House,Ahmedabad,Navrangpura,Chinese,Budget,3.5,310,260,67,No,2011,243100,175000
+BLR-0621,Nawabi Handi,Bengaluru,Whitefield,Biryani,Budget,,,350,33,Yes,2020,462000,398700
+AMD-0622,Wok Bowl,Ahmedabad,Navrangpura,Chinese,Mid-range,3.6,396,320,78,No,2015,372200,342800
+KOL-0623,Nizam Darbar,Kolkata,Park Street,Mughlai,Mid-range,3.7,106,640,44,No,2015,463300,404100
+DEL-0624,Olive Bistro,Delhi,Hauz Khas,Italian,Mid-range,3.9,112,1030,92,Yes,2022,3748000,2775600
+BLR-0625,Oak Room,Bengaluru,HSR Layout,Continental,Premium,4.5,295,1060,84,Yes,2021,2274300,2169600
+MUM-0626,Ambrosia Kitchen,Mumbai,Andheri,Multi-cuisine,Mid-range,4.4,54,820,108,No,2020,1278900,1221800
+BLR-0627,Basil House,Bengaluru,Koramangala,Thai,Mid-range,4.6,295,630,47,No,2007,675900,647700
+DEL-0628,Lucky Hub,Delhi,Saket,Chinese,Budget,,802,280,57,No,2014,390100,357100
+MUM-0629,Mocha Co.,Mumbai,Dadar,Cafe,Mid-range,3.5,142,630,53,No,2022,750800,
+MUM-0630,Paradise Handi,Mumbai,Borivali,Biryani,Budget,3.7,50,330,37,No,2015,567200,517100
+DEL-0631,Tandoor House,Delhi,Lajpat Nagar,Mughlai,Premium,4.5,203,1400,60,Yes,2023,1219200,1021700
+DEL-0632,Fiesta House,Delhi,,Mexican,Premium,4.6,220,1160,53,Yes,2017,1282200,907300
+NAG-0633,Dragon Palace,Nagpur,Dharampeth,Chinese,Premium,3.5,41,600,158,Yes,2023,2599900,2044300
+KOL-0634,Coastal Table,Kolkata,Salt Lake,Seafood,Premium,3.9,138,650,75,No,2023,998300,830100
+JAI-0635,Heritage Garden,Jaipur,Malviya Nagar,Multi-cuisine,Premium,4.4,1034,930,950,Yes,2017,11500000,9400000
+HYD-0636,Urban Kitchen,Hyderabad,Gachibowli,Multi-cuisine,Mid-range,4.0,631,380,117,Yes,,621700,504700
+PUN-0637,Wok Palace,Pune,Pimpri,Chinese,Premium,4.0,75,470,61,Yes,2021,834300,864200
+DEL-0638,Basilico Bistro,Delhi,Karol Bagh,Italian,Mid-range,4.2,144,850,156,No,2019,3283700,2535600
+HYD-0639,Dragon Hub,Hyderabad,Gachibowli,Chinese,Mid-range,3.8,153,290,96,No,2017,407200,273500
+BLR-0640,Napoli Bistro,Bengaluru,Jayanagar,Italian,Mid-range,4.3,64,740,42,Yes,2015,1083600,1110800
+DEL-0641,Udupi Bhavan,Delhi,Hauz Khas,South Indian,Budget,3.1,57,190,28,No,2020,232200,165600
+CHE-0642,Udupi Bhavan,Chennai,T. Nagar,South Indian,Mid-range,4.0,191,150,39,Yes,2010,286700,218200
+PUN-0643,Bhel Stall,Pune,Kothrud,Street Food,Budget,3.8,21,110,19,Yes,2013,222800,137900
+CHE-0644,Chai Cafe,Chennai,Adyar,Cafe,Mid-range,4.1,110,310,25,Yes,2007,323500,211300
+MUM-0645,Kerala Bhavan,Mumbai,Lower Parel,South Indian,Budget,4.0,55,310,23,Yes,2002,360100,304100
+MUM-0646,Tadka House,Mumbai,,North Indian,Premium,,48,770,80,Yes,2019,2288700,1726200
+NAG-0647,Desi Express,Nagpur,,North Indian,Premium,3.2,,640,117,No,2012,1395300,1004400
+PUN-0648,Sizzle Point,Pune,Camp,Fast Food,Mid-range,4.2,323,270,16,Yes,2017,355500,272700
+HYD-0649,Gully Junction,Hyderabad,Banjara Hills,Street Food,Budget,3.5,63,80,28,Yes,2017,171000,146600
+MUM-0650,Panda House,Mumbai,Lower Parel,Chinese,Premium,3.7,344,830,62,Yes,2010,1892000,
+NAG-0651,Grand Banquet,Nagpur,Sitabuldi,Multi-cuisine,Premium,4.2,445,780,121,Yes,2020,787300,771400
+CHE-0652,Trattoria Kitchen,Chennai,Mylapore,Italian,Mid-range,4.2,204,610,235,No,2018,6398400,4996000
+MUM-0653,Wok Express,Mumbai,Bandra,Chinese,Mid-range,4.3,175,430,80,No,2013,1110200,
+BLR-0654,Udupi Tiffins,Bengaluru,Jayanagar,South Indian,Budget,,471,180,49,Yes,2018,449500,378600
+AMD-0655,Mysore Bhavan,Ahmedabad,Satellite,South Indian,Budget,4.0,98,,34,Yes,2022,222600,162400
+PUN-0656,Kerala Kitchen,Pune,Hinjewadi,South Indian,Budget,3.3,27,,25,No,2024,121100,97000
+PUN-0657,Biryani Handi,Pune,Kothrud,Biryani,Mid-range,3.8,43,270,31,Yes,2019,389400,301100
+CHE-0658,Hyderabadi Kitchen,Chennai,Mylapore,Biryani,Budget,3.3,72,180,68,Yes,2024,644900,543100
+KOL-0659,Basil Orchid,Kolkata,Salt Lake,Thai,Mid-range,3.9,70,520,,Yes,2022,957200,495300
+MUM-0660,Tadka House,Mumbai,Dadar,North Indian,Premium,3.9,71,760,61,Yes,2021,837700,750600
+MUM-0661,Kerala Cafe,Mumbai,Bandra,South Indian,Mid-range,4.7,23,270,35,Yes,2024,,
+MUM-0662,Vada Pav Junction,Mumbai,Borivali,Street Food,Budget,3.8,31,120,11,Yes,2020,54500,40700
+PUN-0663,Grand Plaza,Pune,Viman Nagar,Multi-cuisine,Premium,4.6,246,780,158,No,2022,1758000,1438500
+MUM-0664,Tide Table,Mumbai,Andheri,Seafood,Premium,3.1,138,1280,107,No,2024,2774200,2241300
+CHE-0665,Mocha Social,Chennai,Adyar,Cafe,Mid-range,3.9,33,320,31,Yes,2020,752400,483600
+BLR-0666,Madras Mess,Bengaluru,Whitefield,South Indian,Budget,4.1,21,150,67,Yes,2015,392600,335600
+BLR-0667,Badshah Kitchen,Bengaluru,HSR Layout,Mughlai,Mid-range,5.0,10,610,25,Yes,2024,769600,605100
+BLR-0668,Swad Junction,Bengaluru,Jayanagar,North Indian,Premium,4.6,,710,71,Yes,2024,1117400,957700
+PUN-0669,Roma Table,Pune,Camp,Italian,Mid-range,3.5,191,650,150,No,2023,1186000,899600
+BLR-0670,Madras Tiffins,Bengaluru,Koramangala,South Indian,Budget,3.5,20,200,38,Yes,2023,236300,161600
+AMD-0671,Provence Table,Ahmedabad,SG Highway,Continental,Premium,4.5,149,760,53,Yes,2012,749300,621400
+CHE-0672,Munch Corner,Chennai,Velachery,Fast Food,Budget,3.2,38,130,22,No,2017,148400,101500
+AMD-0673,Lotus Garden,Ahmedabad,Maninagar,Thai,Mid-range,4.6,90,550,132,Yes,2016,1895100,1685700
+KOL-0674,Crispy Shack,Kolkata,,Fast Food,Budget,4.1,17,140,24,Yes,2015,322100,215000
+NAG-0675,Tadka Corner,Nagpur,Sitabuldi,North Indian,Mid-range,4.6,283,250,114,No,2020,698400,464500
+JAI-0676,Anchor Kitchen,Jaipur,C-Scheme,Seafood,Mid-range,3.9,78,450,48,No,2021,536800,446700
+HYD-0677,Cuppa Cafe,Hyderabad,Banjara Hills,Cafe,Mid-range,4.4,74,380,22,Yes,2023,505700,456400
+PUN-0678,Wrap Point,Pune,Pimpri,Fast Food,Budget,4.7,178,150,19,No,2017,268400,184600
+HYD-0679,Basilico Bistro,Hyderabad,Banjara Hills,Italian,Premium,4.4,111,1090,129,No,2019,5636700,4347900
+CHE-0680,Wok Express,Chennai,Mylapore,Street Food,Budget,4.5,233,120,26,Yes,2023,381000,302500
+BLR-0681,La Piazza Co.,Bengaluru,Indiranagar,Italian,Premium,4.6,86,1140,93,Yes,2022,3414800,2397200
+HYD-0682,Tadka House,Hyderabad,Secunderabad,North Indian,Premium,5.0,151,680,76,Yes,2017,1501300,1093800
+DEL-0683,Bean Co.,Delhi,Dwarka,Cafe,Mid-range,4.4,38500,380,59,No,1985,838600,564100
+BLR-0684,Bella Kitchen,Bengaluru,,Italian,Premium,3.6,87,1070,60,No,2024,1206000,870700
+BLR-0685,Bean Cafe,Bengaluru,Indiranagar,Cafe,Mid-range,3.4,263,390,37,Yes,2019,,238600
+HYD-0686,Cantina House,Hyderabad,Gachibowli,Mexican,Premium,4.2,98,,73,No,2024,584400,507600
+DEL-0687,Nizam Mahal,Delhi,Dwarka,Mughlai,Premium,4.1,101,940,60,Yes,2022,1168400,1199400
+HYD-0688,Udupi Kitchen,Hyderabad,Banjara Hills,South Indian,Budget,4.5,142,160,41,No,2015,267400,228300
+PUN-0689,Dhaba Darbar,Pune,Baner,North Indian,Premium,4.7,566,560,86,Yes,2006,1664400,1364200
+PUN-0690,Pizza Corner,Pune,Baner,Fast Food,Budget,3.6,61,170,30,Yes,2024,308900,244000
+AMD-0691,Lucknowi House,Ahmedabad,SG Highway,Biryani,Mid-range,4.0,9,220,43,No,2022,337900,236700
+DEL-0692,Grand Terrace,Delhi,Saket,Multi-cuisine,Premium,4.4,411,1410,333,No,2018,2890100,1986900
+HYD-0693,Tide House,Hyderabad,Banjara Hills,Seafood,Mid-range,3.5,126,550,100,Yes,2020,1167500,880700
+BLR-0694,Quick Shack,Bengaluru,HSR Layout,Fast Food,Budget,3.4,88,210,20,Yes,2021,299100,240700
+PUN-0695,Spice Kitchen,Pune,Baner,Multi-cuisine,Budget,3.8,70,520,85,No,2022,919600,753600
+DEL-0696,Salsa Kitchen,Delhi,Connaught Place,Mexican,Premium,4.1,501,1070,84,Yes,2024,4382400,3161100
+PUN-0697,The Grill House,Pune,Hinjewadi,Continental,Mid-range,4.5,122,570,120,Yes,2020,2933700,2376100
+CHE-0698,Bella Cucina,Chennai,Velachery,Italian,Mid-range,4.4,94,640,108,Yes,2022,1590200,1195900
+BLR-0699,Mughal Khana,Bengaluru,HSR Layout,Mughlai,Premium,4.3,205,990,81,Yes,2018,,1921000
+BLR-0700,Swad House,Bengaluru,HSR Layout,North Indian,Premium,4.1,39,930,42,No,2024,1900600,1764800
+BLR-0701,Bangkok Kitchen,Bengaluru,HSR Layout,Thai,Mid-range,3.9,176,660,109,Yes,2012,2211100,2327500
+PUN-0702,Tadka House,Pune,Koregaon Park,North Indian,Mid-range,3.9,118,,37,Yes,2019,,
+HYD-0703,Oak Kitchen,Hyderabad,Gachibowli,Continental,Mid-range,4.3,68,680,63,Yes,2021,898700,815400
+CHE-0704,Udupi Tiffins,Chennai,Velachery,South Indian,Budget,3.6,306,160,45,Yes,2009,427100,
+PUN-0705,Bite Hub,Pune,Hinjewadi,Fast Food,Mid-range,4.1,143,160,44,Yes,2021,518800,406000
+DEL-0706,Provence House,Delhi,Dwarka,Continental,Premium,4.1,218,980,111,Yes,2009,2121700,1708900
+NAG-0707,Lucknowi Darbar,Nagpur,Sitabuldi,Biryani,Mid-range,3.9,79,230,67,Yes,2023,523800,448600
+HYD-0708,Sultan House,Hyderabad,Banjara Hills,Mughlai,Luxury,3.4,88,1550,40,No,2020,1531600,1419300
+JAI-0709,Crispy Box,Jaipur,Malviya Nagar,Fast Food,Budget,4.1,179,100,21,Yes,2014,155300,118900
+PUN-0710,Bean Social,Pune,Baner,Cafe,Mid-range,3.2,57,360,43,Yes,2013,1184800,595400
+BLR-0711,Chai Point,Bengaluru,Jayanagar,South Indian,Budget,3.5,338,220,30,Yes,2012,221000,120300
+PUN-0712,Nawabi Centre,Pune,Baner,Biryani,Premium,3.8,134,510,40,Yes,2008,757400,479600
+PUN-0713,Provence Bistro,Pune,Koregaon Park,Continental,Premium,3.8,118,1460,,No,2019,1457000,1275600
+PUN-0714,Bella Table,Pune,Viman Nagar,Italian,Mid-range,4.1,67,860,44,No,2017,1000300,860600
+JAI-0715,Royal Point,Jaipur,Mansarovar,Biryani,Premium,3.9,142,410,56,Yes,2019,896100,662100
+PUN-0716,Lemongrass Orchid,Pune,Baner,Thai,Mid-range,4.1,,490,106,Yes,2019,994100,941600
+HYD-0717,Bite Box,Hyderabad,Gachibowli,Fast Food,Budget,3.9,51,130,21,Yes,2023,209400,135000
+DEL-0718,Handi Kitchen,Delhi,Dwarka,North Indian,Mid-range,3.9,133,560,32,No,2024,362900,251300
+MUM-0719,Mocha Social,Mumbai,Dadar,Cafe,Mid-range,4.0,92,500,31,Yes,2019,441300,345500
+KOL-0720,Rasoi Darbar,Kolkata,Salt Lake,North Indian,Mid-range,4.0,60,350,51,No,2021,533600,405000
+BLR-0721,Dhaba House,Bengaluru,Indiranagar,North Indian,Mid-range,3.8,165,420,104,No,2013,1130800,859800
+BLR-0722,Chopstick Garden,Bengaluru,Whitefield,Chinese,Premium,4.4,68,550,113,Yes,2022,1546300,1322000
+BLR-0723,Biryani Centre,Bengaluru,Indiranagar,Biryani,Mid-range,4.4,135,310,56,Yes,2020,798200,623500
+NAG-0724,Fry Stop,Nagpur,Sitabuldi,Fast Food,Budget,,87,120,26,No,2007,208800,
+HYD-0725,Dhaba Corner,Hyderabad,Banjara Hills,North Indian,Mid-range,3.8,520,380,81,Yes,2019,795500,663400
+JAI-0726,Saravana Bhavan,Jaipur,Mansarovar,South Indian,Budget,4.4,83,140,44,Yes,2020,285800,
+NAG-0727,Tide Table,Nagpur,Sitabuldi,Seafood,Premium,4.0,53,890,104,No,2024,1380800,936100
+MUM-0728,Tide Grill,Mumbai,Lower Parel,Seafood,Mid-range,4.1,66,660,44,No,2020,812200,638100
+MUM-0729,Chopstick Garden,Mumbai,Powai,Chinese,Mid-range,3.4,35,,62,Yes,2023,391300,349100
+PUN-0730,Sugar Box,Pune,Camp,Bakery & Desserts,Budget,4.1,449,180,28,Yes,2016,138200,86100
+DEL-0731,Dum Kitchen,Delhi,Connaught Place,Biryani,Budget,3.9,101,320,26,No,2016,319400,220300
+AMD-0732,Dragon Express,Ahmedabad,SG Highway,Chinese,Budget,4.1,148,280,62,Yes,2018,574000,539400
+MUM-0733,Handi Darbar,Mumbai,Dadar,North Indian,Budget,3.7,63,510,79,Yes,2022,1010300,693900
+JAI-0734,Madras Bhavan,Jaipur,Vaishali Nagar,South Indian,Budget,3.5,39,,34,Yes,2020,195200,132900
+DEL-0735,Brasserie Kitchen,Delhi,Karol Bagh,Continental,Premium,4.1,240,1550,101,Yes,2021,3519400,2707100
+DEL-0736,Tadka Express,Delhi,Connaught Place,North Indian,Mid-range,4.0,514,460,102,Yes,2023,1684100,1305500
+MUM-0737,Dum Point,Mumbai,Borivali,Biryani,Mid-range,3.8,39,460,61,Yes,2019,1639400,1010000
+CHE-0738,Handi Junction,Chennai,Velachery,North Indian,Mid-range,4.3,166,410,37,Yes,2008,401800,372000
+KOL-0739,Trattoria Bistro,Kolkata,Ballygunge,Italian,Premium,4.3,395,820,83,Yes,2017,1024100,724700
+BLR-0740,Konkan Table,Bengaluru,HSR Layout,Seafood,Budget,3.9,330,840,87,Yes,,2284400,1600200
+JAI-0741,Pani Puri Corner,Jaipur,C-Scheme,Street Food,Budget,4.1,173,80,28,Yes,2023,240400,206800
+AMD-0742,Sweet Box,Ahmedabad,SG Highway,Bakery & Desserts,Mid-range,4.6,47,260,,Yes,2021,381200,416400
+KOL-0743,Filter Point,Kolkata,Ballygunge,South Indian,Mid-range,4.0,29,210,31,Yes,2023,394900,272700
+JAI-0744,Dosa Bhavan,Jaipur,Vaishali Nagar,South Indian,Budget,4.5,331,100,82,Yes,2019,769600,
+KOL-0745,Pani Puri Adda,Kolkata,Howrah,Street Food,Budget,3.8,111,70,33,Yes,2020,125500,89200
+PUN-0746,Maple House,Pune,Viman Nagar,Continental,Luxury,4.1,740,1730,57,No,2009,4423100,3179500
+AMD-0747,Desi Darbar,Ahmedabad,Satellite,North Indian,Budget,3.4,139,240,50,No,2013,270000,256400
+DEL-0748,Dosa Kitchen,Delhi,Saket,South Indian,Mid-range,3.8,71,280,48,Yes,2023,465000,386200
+DEL-0749,Daily Grind Social,Delhi,Dwarka,Cafe,Premium,3.8,92,700,98,Yes,,,2561300
+BLR-0750,Golden Express,Bengaluru,Whitefield,Chinese,Mid-range,4.0,250,390,148,No,2005,550000,510700
+CHE-0751,Fisherman's Shack,Chennai,Anna Nagar,Seafood,Premium,3.7,97,1210,135,Yes,2023,2343800,1872900
+NAG-0752,Cuppa Roasters,Nagpur,Dharampeth,Cafe,Premium,4.0,110,490,40,Yes,2018,963600,586600
+CHE-0753,Munch Point,Chennai,Mylapore,Fast Food,Budget,4.3,131,120,25,Yes,2015,230200,168600
+MUM-0754,Filter Cafe,Mumbai,Colaba,South Indian,Mid-range,3.4,42,280,58,Yes,2017,1139200,772900
+MUM-0755,Sakura Table,Mumbai,Colaba,Japanese,Premium,4.3,176,2540,61,No,2019,2182600,1764700
+CHE-0756,Tide Kitchen,Chennai,T. Nagar,Seafood,Mid-range,4.3,148,590,135,No,2016,1585700,1300800
+NAG-0757,Crispy Hub,Nagpur,Dharampeth,Fast Food,Budget,4.0,217,140,24,Yes,2018,293800,253900
+DEL-0758,Hyderabadi House,Delhi,Connaught Place,Biryani,Budget,,49,230,21,Yes,2022,282900,182500
+PUN-0759,Dosa Express,Pune,Koregaon Park,Chinese,Budget,3.5,63,330,43,Yes,2019,588400,447200
+BLR-0760,Maple Table,Bengaluru,Jayanagar,Continental,Mid-range,4.3,29,810,65,Yes,2021,1502400,1094600
+HYD-0761,Awadhi House,Hyderabad,Gachibowli,Biryani,Mid-range,3.7,99,200,44,Yes,2012,,198100
+CHE-0762,Tadka Corner,Chennai,Adyar,North Indian,Budget,4.1,154,220,28,Yes,2020,171800,129500
+MUM-0763,Sizzle Box,Mumbai,Lower Parel,Fast Food,Budget,3.6,22,170,22,Yes,2022,233400,161800
+JAI-0764,Dum Point,Jaipur,Vaishali Nagar,Biryani,Premium,4.1,13,430,31,Yes,2020,784500,511200
+BLR-0765,Royal Darbar,Bengaluru,Jayanagar,Biryani,Budget,4.0,36,260,46,Yes,2024,874000,718600
+PUN-0766,Roast Lab,Pune,Baner,Cafe,Mid-range,4.4,178,380,49,No,,769000,638300
+HYD-0767,Cocoa Bakery,Hyderabad,Madhapur,Bakery & Desserts,Budget,4.1,50,160,33,Yes,2019,195800,148700
+PUN-0768,Matsu Room,Pune,Camp,Japanese,Premium,,337,2760,39,No,2022,1905900,1413500
+MUM-0769,Jade Hub,Mumbai,Andheri,Chinese,Premium,,123,650,50,Yes,2020,,815200
+KOL-0770,Panda Bowl,Kolkata,Ballygunge,Chinese,Mid-range,4.5,95,340,58,Yes,2018,469400,491600
+MUM-0771,Hearth Bistro,Mumbai,Borivali,Continental,Premium,3.4,113,1070,,Yes,2022,2344700,2049000
+DEL-0772,Atlas & Co.,Delhi,Connaught Place,Continental,Mid-range,4.1,82,840,71,Yes,2016,1643600,1094000
+CHE-0773,Sushi Kitchen,Chennai,Adyar,Japanese,Premium,4.0,349,1290,95,Yes,2017,3609300,2978400
+HYD-0774,Roast Social,Hyderabad,Banjara Hills,Cafe,Mid-range,4.8,236,380,,Yes,2017,952700,657200
+PUN-0775,Paradise Kitchen,Pune,Kothrud,Biryani,Mid-range,4.5,118,280,50,No,2015,702500,518500
+AMD-0776,Dosa Mess,Ahmedabad,Navrangpura,South Indian,Budget,3.6,677,200,64,Yes,2018,535600,365000
+PUN-0777,Punjabi Express,Pune,Baner,North Indian,Mid-range,3.5,313,410,91,No,2021,631400,412500
+HYD-0778,Izakaya Bar,Hyderabad,Gachibowli,Japanese,Premium,4.9,64,1600,73,No,2013,3379600,2841300
+KOL-0779,Frosted Box,Kolkata,Ballygunge,Bakery & Desserts,Budget,3.8,339,160,19,No,2010,71000,55400
+MUM-0780,Butter Studio,Mumbai,Powai,Bakery & Desserts,Budget,3.8,43,260,19,No,2009,188000,154700
+AMD-0781,Olive House,Ahmedabad,SG Highway,Italian,Mid-range,4.3,98,520,85,No,2017,849400,650100
+NAG-0782,Mangalore Shack,Nagpur,Sitabuldi,Seafood,Premium,5.0,304,820,86,No,2022,839200,754100
+PUN-0783,Lucknowi Point,Pune,Kothrud,Biryani,Budget,4.2,33,270,46,Yes,2014,694100,485100
+KOL-0784,Handi House,Kolkata,Salt Lake,North Indian,Mid-range,3.9,231,390,46,No,2018,423000,343600
+PUN-0785,Zaika House,Pune,Pimpri,North Indian,Premium,4.5,282,580,68,Yes,,978500,809400
+NAG-0786,Daily Grind Cafe,Nagpur,Dharampeth,Cafe,Budget,3.8,96,150,40,Yes,2022,200600,144600
+HYD-0787,Royal Dine,Hyderabad,Banjara Hills,Multi-cuisine,Mid-range,4.1,113,460,91,No,,298700,223100
+MUM-0788,Swad Express,Mumbai,Lower Parel,North Indian,Mid-range,3.2,383,640,101,No,2016,2005600,1204800
+BLR-0789,Royal Plaza,Bengaluru,Indiranagar,Multi-cuisine,Mid-range,4.2,140,940,214,No,2022,1500200,1311000
+KOL-0790,Urban Banquet,Kolkata,Park Street,Multi-cuisine,Mid-range,3.7,221,580,127,No,2020,1430700,951100
+HYD-0791,Mocha Studio,Hyderabad,Madhapur,Cafe,Mid-range,4.5,203,540,30,Yes,2019,1200400,
+BLR-0792,Oak Kitchen,Bengaluru,Jayanagar,Continental,Premium,4.7,277,1370,84,Yes,2017,7253300,6261400
+DEL-0793,Sizzle Corner,Delhi,Lajpat Nagar,Fast Food,Mid-range,4.2,74,230,17,Yes,2020,408800,301100
+PUN-0794,Chopstick Garden,Pune,Kothrud,Chinese,Mid-range,3.6,115,310,,Yes,2017,364200,310300
+MUM-0795,Vada Pav Stall,Mumbai,Borivali,Street Food,Budget,4.1,107,120,24,Yes,2017,152800,120500
+CHE-0796,Rasoi Kitchen,Chennai,Adyar,North Indian,Mid-range,3.8,50,320,62,Yes,2023,399100,345500
+MUM-0797,Mughal Khana,Mumbai,Dadar,Mughlai,Mid-range,,582,670,133,Yes,2021,2349200,
+BLR-0798,Saravana Cafe,Bengaluru,MG Road,South Indian,Budget,3.2,236,160,64,No,2018,382800,268300
+DEL-0799,Pani Puri Adda,Delhi,Dwarka,Street Food,Budget,3.1,,160,22,Yes,2019,274300,232200
+DEL-0800,Maple House,Delhi,Saket,Continental,Premium,3.9,112,960,43,Yes,2021,918400,775500
+NAG-0801,Nawabi Point,Nagpur,Dharampeth,Biryani,Budget,3.9,35,220,34,No,2022,272800,219400
+AMD-0802,Latte Roasters,Ahmedabad,Maninagar,Cafe,Mid-range,,179,310,34,No,2014,160300,110600
+MUM-0803,Spice Garden,Mumbai,Dadar,Multi-cuisine,Mid-range,4.4,256,700,172,Yes,2018,1550400,1494700
+AMD-0804,Atlas Room,Ahmedabad,Satellite,Continental,Premium,4.0,57,810,58,Yes,2022,982500,839700
+KOL-0805,Chaat Corner,Kolkata,Salt Lake,Street Food,Mid-range,3.8,11,,19,Yes,2024,226500,176600
+BLR-0806,Thela Point,Bengaluru,Koramangala,Street Food,Budget,3.7,104,90,28,Yes,2003,179200,140800
+DEL-0807,Olive House,Delhi,Saket,Italian,Premium,4.1,487,1100,75,No,2021,2057400,1489000
+CHE-0808,Jade Garden,Chennai,,Chinese,Premium,3.5,127,410,88,Yes,2013,1124900,
+AMD-0809,Oak Table,Ahmedabad,Maninagar,Continental,Mid-range,4.1,182,600,69,No,2023,548100,518100
+KOL-0810,Nukkad Stall,Kolkata,Ballygunge,Street Food,Budget,4.7,79,70,32,Yes,2018,211500,154500
+PUN-0811,Crispy Shack,Pune,Baner,Fast Food,Budget,4.2,133,140,29,Yes,2018,343500,
+KOL-0812,Oak Bistro,Kolkata,Ballygunge,Continental,Premium,4.4,187,1190,60,No,2001,1506000,1127400
+HYD-0813,Hyderabadi Darbar,Hyderabad,Gachibowli,Biryani,Premium,4.4,174,390,31,No,2018,1152100,
+KOL-0814,Idli Mess,Kolkata,Salt Lake,South Indian,Mid-range,,,170,41,Yes,2020,349600,276300
+AMD-0815,Dilli House,Ahmedabad,Satellite,Mughlai,Premium,4.5,70,950,30,No,2013,679300,549700
+PUN-0816,Daily Grind Co.,Pune,Viman Nagar,Cafe,Premium,3.7,62,750,42,No,2025,1065700,774800
+JAI-0817,Sweet Bakery,Jaipur,Vaishali Nagar,Bakery & Desserts,Mid-range,4.1,157,230,23,No,2016,,136900
+PUN-0818,Mocha Roasters,Pune,Kothrud,Cafe,Budget,3.6,294,280,25,Yes,2016,465300,358200
+DEL-0819,Goan Grill,Delhi,Connaught Place,Seafood,Mid-range,4.3,97,950,102,No,2020,1720600,1268800
+PUN-0820,Roast Studio,Pune,Hinjewadi,Cafe,Mid-range,4.6,408,380,36,Yes,2021,973100,687000
+HYD-0821,Mysore Kitchen,Hyderabad,Gachibowli,South Indian,Budget,,242,140,73,No,,321000,259900
+PUN-0822,Hearth Bistro,Pune,Camp,Continental,Premium,4.4,78,1460,138,Yes,2020,3585500,2993700
+MUM-0823,Bean Co.,Mumbai,Powai,Cafe,Premium,3.9,79,790,40,No,2020,1733900,
+NAG-0824,Hyderabadi House,Nagpur,Sitabuldi,Biryani,Mid-range,3.2,122,320,57,Yes,2021,612800,481500
+MUM-0825,Handi Corner,Mumbai,Lower Parel,North Indian,Budget,3.7,65,310,53,Yes,2016,485400,402800
+AMD-0826,Shahi Darbar,Ahmedabad,SG Highway,Mughlai,Mid-range,4.4,214,420,95,Yes,2017,1584000,1281600
+JAI-0827,Cake Bakery,Jaipur,Mansarovar,Bakery & Desserts,Premium,4.4,39,320,56,Yes,2022,816500,697500
+MUM-0828,Cuppa Lab,Mumbai,Powai,Cafe,Mid-range,4.1,59,350,43,No,2022,,264500
+DEL-0829,El Bar,Delhi,Connaught Place,Mexican,Premium,4.1,521,1210,74,Yes,2015,3363000,2183900
+BLR-0830,Crumbs Box,Bengaluru,Whitefield,Bakery & Desserts,Mid-range,3.3,82,280,26,Yes,2024,390200,317400
+DEL-0831,Gully Adda,Delhi,Dwarka,Street Food,Budget,3.2,268,100,25,Yes,2017,114200,87300
+PUN-0832,Golden Palace,Pune,Hinjewadi,Chinese,Mid-range,,327,440,89,No,2012,842200,579300
+PUN-0833,Rasoi Darbar,Pune,Koregaon Park,North Indian,Mid-range,3.8,163,350,87,No,2016,994800,722900
+DEL-0834,Shahi Tales,Delhi,Dwarka,Mughlai,Premium,3.3,12,980,81,Yes,2021,822600,
+KOL-0835,Zaika House,Kolkata,New Town,North Indian,Mid-range,3.9,144,330,101,No,2017,840400,809600
+KOL-0836,Royal Centre,Kolkata,Park Street,Biryani,Premium,3.7,219,410,76,Yes,2016,1427300,981700
+NAG-0837,Dosa Express,Nagpur,Manish Nagar,Cafe,Premium,4.3,198,490,53,Yes,2019,920000,798200
+PUN-0838,Dragon Garden,Pune,Pimpri,Chinese,Mid-range,3.9,100,280,41,Yes,2016,540800,307600
+PUN-0839,Swad Kitchen,Pune,Viman Nagar,North Indian,Budget,3.7,,280,55,Yes,2022,299200,230700
+JAI-0840,Swad Corner,Jaipur,Mansarovar,North Indian,Mid-range,4.8,589,270,83,Yes,2018,703500,543900
+MUM-0841,Pasta Co.,Mumbai,Powai,Italian,Mid-range,4.2,108,1030,56,Yes,2023,1486200,1297000
+CHE-0842,Crispy Hub,Chennai,Anna Nagar,Fast Food,Budget,3.8,207,150,19,Yes,2023,152700,119100
+JAI-0843,Kyoto Room,Jaipur,C-Scheme,Japanese,Luxury,3.4,53,2770,44,Yes,2005,4759000,3802700
+BLR-0844,Desi Kitchen,Bengaluru,Jayanagar,North Indian,Mid-range,3.8,136,450,119,Yes,2024,1324400,993100
+AMD-0845,Cocoa Studio,Ahmedabad,SG Highway,Bakery & Desserts,Mid-range,4.1,74,220,45,No,2025,,431600
+AMD-0846,Quick Shack,Ahmedabad,Navrangpura,Fast Food,Budget,4.2,48,150,23,Yes,2021,374300,358600
+CHE-0847,Brew Roasters,Chennai,Velachery,Cafe,Mid-range,3.4,575,,44,Yes,2019,519000,270500
+MUM-0848,Nizam Tales,Mumbai,Andheri,Mughlai,Premium,,,1100,34,Yes,2020,913200,803200
+JAI-0849,Dragon Palace,Jaipur,Vaishali Nagar,Chinese,Mid-range,3.9,181,270,43,Yes,2017,340600,307700
+PUN-0850,Roma Kitchen,Pune,Baner,Italian,Mid-range,4.3,98,620,64,Yes,2023,746900,507000
+BLR-0851,Nacho House,Bengaluru,Whitefield,Mexican,Mid-range,4.0,145,570,66,Yes,2019,1255800,1092500
+HYD-0852,Tandoor Darbar,Hyderabad,Banjara Hills,Mughlai,Mid-range,4.0,501,530,54,Yes,2019,441500,
+HYD-0853,Dough Co.,Hyderabad,Gachibowli,Bakery & Desserts,Mid-range,3.9,224,260,71,Yes,2016,1120000,1023400
+MUM-0854,Zaika Kitchen,Mumbai,Colaba,North Indian,Mid-range,4.7,71,420,97,Yes,2016,809000,628700
+HYD-0855,Dragon Palace,Hyderabad,Banjara Hills,Chinese,Mid-range,3.8,167,240,47,Yes,2013,228800,171000
+BLR-0856,Sev Point,Bengaluru,HSR Layout,Street Food,Mid-range,4.0,45,210,20,Yes,2020,408200,366700
+DEL-0857,Bangkok Express,Delhi,Karol Bagh,Thai,Mid-range,4.2,135,1060,48,Yes,2016,1286300,1305700
+PUN-0858,Brasserie House,Pune,Hinjewadi,Continental,Premium,3.4,137,1150,61,Yes,2006,1181300,1043000
+KOL-0859,Brasserie Bistro,Kolkata,Ballygunge,Continental,Mid-range,3.8,278,500,107,Yes,2007,1765100,1512900
+BLR-0860,Punjabi House,Bengaluru,Jayanagar,North Indian,Mid-range,4.1,84,650,98,No,2019,1026500,840700
+MUM-0861,Grand Dine,Mumbai,Borivali,Multi-cuisine,Mid-range,4.4,79,930,163,No,2021,1803100,1776200
+HYD-0862,Punjabi Corner,Hyderabad,Secunderabad,North Indian,Premium,,,670,80,Yes,2013,2369900,2078700
+HYD-0863,Wok House,Hyderabad,Secunderabad,Chinese,Premium,4.8,120,640,156,Yes,2017,,2300000
+BLR-0864,Nacho Kitchen,Bengaluru,Jayanagar,Mexican,Mid-range,3.8,70,920,63,No,2017,853500,802800
+PUN-0865,Bangkok Express,Pune,Camp,Thai,Budget,3.5,64,,73,Yes,2018,863400,667500
+AMD-0866,Chilli Orchid,Ahmedabad,Maninagar,Thai,Mid-range,4.5,451,630,149,Yes,2007,2634500,2155000
+AMD-0867,Burger Corner,Ahmedabad,SG Highway,Fast Food,Budget,4.5,85,130,21,Yes,2019,130600,107900
+KOL-0868,Idli Cafe,Kolkata,Park Street,South Indian,Budget,4.1,,190,43,Yes,2010,444200,327500
+BLR-0869,Quick Hub,Bengaluru,Indiranagar,Fast Food,Budget,3.1,,190,56,Yes,2023,612800,426300
+PUN-0870,Coastal Grill,Pune,Baner,Seafood,Mid-range,4.4,137,630,93,Yes,2017,1804900,1286900
+BLR-0871,Sapphire Kitchen,Bengaluru,HSR Layout,Multi-cuisine,Budget,4.3,273,590,96,No,2022,1026600,848700
+HYD-0872,Filter Bhavan,Hyderabad,Jubilee Hills,South Indian,Budget,4.1,24,110,46,Yes,2022,210600,175900
+MUM-0873,Idli Point,Mumbai,Bandra,South Indian,Budget,4.4,84,240,37,No,2017,315400,216700
+HYD-0874,Mughal Mahal,Hyderabad,Jubilee Hills,Mughlai,Premium,4.8,1151,980,73,No,1999,1288500,1056500
+HYD-0875,Chopstick Palace,Hyderabad,Banjara Hills,Chinese,Mid-range,4.3,172,300,61,No,2019,463500,426600
+KOL-0876,Hyderabadi Handi,Kolkata,Park Street,Biryani,Premium,4.4,453,420,54,Yes,2021,869800,575400
+KOL-0877,Roast Co.,Kolkata,Howrah,Cafe,Budget,3.1,262,230,28,Yes,2015,340100,276400
+DEL-0878,Desi Junction,Delhi,Connaught Place,North Indian,Budget,3.4,253,290,42,No,2019,237800,162000
+NAG-0879,Mysore Cafe,Nagpur,Dharampeth,South Indian,Budget,3.3,223,140,36,Yes,2021,,234700
+MUM-0880,Saravana Kitchen,Mumbai,Borivali,South Indian,Mid-range,3.7,89,390,88,Yes,2022,1334200,876800
+MUM-0881,Rasoi Junction,Mumbai,Dadar,North Indian,Premium,,66,630,62,Yes,2022,1116800,910200
+MUM-0882,Dum Centre,Mumbai,Andheri,Biryani,Budget,3.8,18,290,28,Yes,2021,315500,215100
+MUM-0883,Rasoi Junction,Mumbai,Dadar,North Indian,Mid-range,3.7,185,470,55,No,2010,720800,550500
+MUM-0884,Sapphire Terrace,Mumbai,Borivali,Multi-cuisine,Mid-range,4.2,453,920,216,No,2015,1692400,1264400
+MUM-0885,Lucky Bowl,Mumbai,Lower Parel,Chinese,Premium,4.1,309,710,,Yes,2018,2596000,2027000
+PUN-0886,Trattoria Kitchen,Pune,Kothrud,Italian,Mid-range,4.6,182,850,44,Yes,2015,494400,459600
+BLR-0887,Burrito Co.,Bengaluru,Jayanagar,Mexican,Premium,4.5,232,1080,83,Yes,2021,1989500,1885500
+CHE-0888,Noodle Garden,Chennai,Mylapore,Chinese,Premium,4.2,231,640,72,No,2024,1295900,986800
+BLR-0889,Cuppa Cafe,Bengaluru,Whitefield,Cafe,Mid-range,4.4,68,470,31,Yes,2022,532300,413100
+KOL-0890,Handi Express,Kolkata,Salt Lake,North Indian,Mid-range,4.4,101,460,50,Yes,2024,391700,349500
+DEL-0891,Nukkad Adda,Delhi,Lajpat Nagar,Street Food,Budget,3.6,77,80,32,Yes,2010,222200,188900
+NAG-0892,Pasta House,Nagpur,Sitabuldi,Italian,Mid-range,4.0,131,510,52,Yes,2023,640700,572500
+DEL-0893,Monsoon Plaza,Delhi,Hauz Khas,Multi-cuisine,Budget,4.0,363,660,141,No,2021,1621100,1290900
+HYD-0894,Bella House,Hyderabad,Jubilee Hills,Italian,Premium,4.1,103,850,104,Yes,2019,991500,952400
+JAI-0895,Izakaya House,Jaipur,Vaishali Nagar,Japanese,Premium,4.8,150,1390,46,No,2019,1956800,1462800
+MUM-0896,Wok Express,Mumbai,Colaba,South Indian,Mid-range,4.2,162,260,70,Yes,2019,1015300,
+DEL-0897,Nukkad Wala,Delhi,Connaught Place,Street Food,Budget,3.5,53,110,15,Yes,2022,104000,73300
+HYD-0898,Urban Terrace,Hyderabad,Jubilee Hills,Multi-cuisine,Mid-range,3.9,35,750,155,Yes,2020,2937300,2282100
+MUM-0899,El Grill,Mumbai,Colaba,Mexican,Premium,4.0,183,1150,104,Yes,2012,2421100,1983100
+PUN-0900,Dilli Kitchen,Pune,Pimpri,Mughlai,Premium,4.3,468,690,100,No,2012,1271600,1004300
+CHE-0901,Sapphire Banquet,Chennai,Velachery,Multi-cuisine,Mid-range,4.1,96,710,128,Yes,2021,1090800,907900
+KOL-0902,Dragon Express,Kolkata,Salt Lake,Chinese,Premium,4.3,62,360,74,No,2022,671900,555500
+JAI-0903,Crumbs Bakery,Jaipur,C-Scheme,Bakery & Desserts,Budget,4.3,65,200,32,Yes,2011,326000,323300
+AMD-0904,Gully Point,Ahmedabad,Navrangpura,Street Food,Budget,4.3,35,80,15,Yes,2019,87900,62400
+KOL-0905,Bella Bistro,Kolkata,Howrah,Italian,Luxury,4.1,366,1120,40,Yes,2014,1240400,987100
+BLR-0906,Lucky Bowl,Bengaluru,,Chinese,Budget,4.3,145,380,80,Yes,2021,977500,924600
+MUM-0907,Pani Puri Corner,Mumbai,Borivali,Street Food,Budget,3.7,105,140,35,Yes,2016,236000,178700
+BLR-0908,Bhel Adda,Bengaluru,Whitefield,Street Food,Budget,3.6,36,100,21,Yes,2018,183100,157100
+AMD-0909,Zaika House,Ahmedabad,Maninagar,North Indian,Budget,,172,220,69,No,2009,526300,469400
+BLR-0910,Roma Table,Bengaluru,Koramangala,Italian,Premium,3.6,201,940,75,No,2024,1498300,1211200
+CHE-0911,Latte Studio,Chennai,Mylapore,Cafe,Mid-range,4.5,85,360,22,No,2022,211500,142800
+JAI-0912,Desi Darbar,Jaipur,Mansarovar,North Indian,Premium,,113,400,39,Yes,2019,720700,688400
+CHE-0913,Monsoon Banquet,Chennai,T. Nagar,Multi-cuisine,Premium,4.2,218,940,93,Yes,2020,2291000,2162400
+DEL-0914,Olive Kitchen,Delhi,Lajpat Nagar,Italian,Premium,3.5,29,1190,94,Yes,2022,1740700,1429200
+DEL-0915,Hearth Table,Delhi,Connaught Place,Continental,Luxury,4.4,400,2520,69,Yes,2020,,2984500
+AMD-0916,Bhel Wala,Ahmedabad,Navrangpura,Street Food,Budget,3.2,74,70,24,Yes,2012,120500,95900
+CHE-0917,Lucky Express,Chennai,Adyar,Chinese,Budget,3.5,25,220,69,Yes,2024,400600,310700
+KOL-0918,Lucknowi House,Kolkata,Salt Lake,Biryani,Premium,4.0,,560,72,Yes,2021,1351700,1023300
+MUM-0919,Heritage Terrace,Mumbai,Borivali,Multi-cuisine,Budget,3.8,472,710,154,No,2016,2185500,1705900
+BLR-0920,Sapphire Terrace,Bengaluru,MG Road,Multi-cuisine,Mid-range,4.9,,670,362,No,2022,6014900,4321400
+PUN-0921,Mocha Social,Pune,Pimpri,Cafe,Mid-range,3.5,512,370,46,No,2014,392700,296000
+BLR-0922,Umami Den,Bengaluru,Indiranagar,Japanese,Mid-range,4.3,261,1550,67,Yes,2004,1569100,1436100
+DEL-0923,Sugar House,Delhi,Saket,Bakery & Desserts,Mid-range,4.1,200,370,28,No,2016,631600,503000
+DEL-0924,Spice Kitchen,Delhi,Dwarka,Multi-cuisine,Mid-range,3.9,44,880,111,Yes,2022,822500,520900
+CHE-0925,Thela Wala,Chennai,Adyar,Street Food,Budget,4.0,92,90,20,Yes,2020,84200,68000
+DEL-0926,Pizza Corner,Delhi,Hauz Khas,Street Food,Budget,4.1,475,140,48,Yes,2002,649200,420800
+BLR-0927,Chai Point,Bengaluru,Indiranagar,Multi-cuisine,Premium,4.0,123,1060,161,No,2016,1843800,1432100
+AMD-0928,Dosa Mess,Ahmedabad,Maninagar,South Indian,Budget,4.1,184,200,69,Yes,2005,431800,347100
+MUM-0929,Kerala Cafe,Mumbai,Andheri,South Indian,Budget,3.9,188,210,98,No,2015,535500,271700
+MUM-0930,Goan Kitchen,Mumbai,Powai,Seafood,Mid-range,4.4,693,750,82,No,2010,,1484900
+BLR-0931,Handi House,Bengaluru,Jayanagar,North Indian,Budget,4.1,47,360,95,Yes,2023,570600,526200
+DEL-0932,Bean Roasters,Delhi,Saket,Cafe,Mid-range,3.5,65,610,22,Yes,2021,327100,303200
+BLR-0933,Awadhi Darbar,Bengaluru,HSR Layout,Biryani,Mid-range,3.7,213,390,48,No,2018,963400,709700
+BLR-0934,Handi Corner,Bengaluru,Indiranagar,North Indian,Premium,4.1,42,560,24,Yes,2014,,
+CHE-0935,Munch Shack,Chennai,T. Nagar,Fast Food,Budget,4.4,123,150,28,Yes,2008,306500,220400
+AMD-0936,Urban Plaza,Ahmedabad,Navrangpura,Multi-cuisine,Luxury,4.3,82,1570,164,No,2021,2733900,2222500
+CHE-0937,Munch Point,Chennai,Velachery,Fast Food,Budget,3.8,50,120,25,Yes,2018,,163700
+BLR-0938,Badshah Khana,Bengaluru,HSR Layout,Mughlai,Mid-range,4.0,287,420,93,No,2018,320700,238200
+CHE-0939,Dosa Point,Chennai,Mylapore,South Indian,Mid-range,3.9,184,210,34,Yes,2022,500400,440200
+BLR-0940,Brew Social,Bengaluru,Whitefield,Cafe,Mid-range,3.7,120,490,35,No,2008,785200,595600
+DEL-0941,Kebab House,Delhi,Dwarka,Mughlai,Mid-range,4.1,102,640,63,Yes,2007,1180300,909600
+JAI-0942,Awadhi House,Jaipur,Mansarovar,Biryani,Mid-range,3.4,26,270,59,No,2021,377000,331300
+BLR-0943,Basil House,Bengaluru,HSR Layout,Thai,Premium,4.1,231,790,45,Yes,2010,1003700,665100
+DEL-0944,Bite Stop,Delhi,Karol Bagh,Fast Food,Budget,3.7,32,180,21,Yes,2014,284200,256100
+MUM-0945,Olive Co.,Mumbai,Lower Parel,Italian,Mid-range,4.4,93,840,63,Yes,2019,1354100,1108500
+PUN-0946,Mysore Kitchen,Pune,Viman Nagar,South Indian,Mid-range,4.1,29,250,88,Yes,2019,,775900
+PUN-0947,Burrito Bar,Pune,Viman Nagar,Mexican,Mid-range,4.5,380,630,51,Yes,2019,719600,577900
+BLR-0948,Olive Table,Bengaluru,Indiranagar,Italian,Premium,,,1370,106,No,2011,,2287600
+MUM-0949,Noodle Express,Mumbai,Lower Parel,Chinese,Mid-range,,116,430,48,No,2019,753000,672400
+PUN-0950,Trattoria Co.,Pune,Hinjewadi,Italian,Premium,3.1,101,800,37,No,2011,842000,576200
+MUM-0951,Rasoi Corner,Mumbai,Andheri,North Indian,Budget,4.2,187,330,71,Yes,2013,428500,271100
+BLR-0952,Fry Point,Bengaluru,Whitefield,Fast Food,Budget,3.3,133,210,45,Yes,2024,652900,516600
+CHE-0953,Chai Point,Chennai,Mylapore,South Indian,Budget,4.0,181,,61,No,2018,434300,255200
+AMD-0954,Rasoi Darbar,Ahmedabad,Maninagar,North Indian,Premium,4.2,29,390,67,Yes,2022,736000,678600
+DEL-0955,Tadka Darbar,Delhi,Dwarka,North Indian,Budget,3.7,38,360,28,Yes,2014,302900,288400
+HYD-0956,Anchor Table,Hyderabad,Secunderabad,Seafood,Premium,4.7,92,800,62,Yes,2021,1802600,
+DEL-0957,Fisherman's Shack,Delhi,Connaught Place,Seafood,Mid-range,3.8,73,870,109,Yes,2023,2409400,2059400
+BLR-0958,Swad Kitchen,Bengaluru,Jayanagar,North Indian,Premium,3.8,399,780,99,Yes,2019,1692400,1312200
+NAG-0959,Handi Junction,Nagpur,Dharampeth,North Indian,Mid-range,3.9,54,310,60,Yes,2024,291500,218900
+BLR-0960,Badshah Kitchen,Bengaluru,Koramangala,Mughlai,Mid-range,3.7,81,710,86,Yes,2021,1904400,1274400
+BLR-0961,Fry Stop,Bengaluru,Whitefield,Fast Food,Budget,,184,210,22,Yes,2023,412200,355900
+PUN-0962,Anchor Grill,Pune,Viman Nagar,Seafood,Mid-range,4.7,287,590,106,Yes,2019,,3406100
+CHE-0963,Salsa Co.,Chennai,Velachery,Mexican,Mid-range,4.1,25,460,39,Yes,2024,563800,395200
+AMD-0964,Taco Co.,Ahmedabad,SG Highway,Mexican,Premium,4.1,157,900,102,Yes,2021,4404500,3684200
+CHE-0965,Wrap Stop,Chennai,Mylapore,Fast Food,Budget,4.1,156,170,33,Yes,2019,476900,386000
+CHE-0966,Latte Studio,Chennai,Anna Nagar,Cafe,Mid-range,4.3,59,400,46,No,2012,943300,732000
+JAI-0967,Mocha Social,Jaipur,Mansarovar,Cafe,Premium,,79,440,40,No,2015,519900,373200
+KOL-0968,Royal Centre,Kolkata,Park Street,Biryani,Budget,4.8,176,180,46,Yes,2013,401800,282200
+PUN-0969,Dhaba Kitchen,Pune,Hinjewadi,North Indian,Budget,3.9,239,280,76,Yes,2016,298900,228200
+MUM-0970,Taco Grill,Mumbai,Bandra,Mexican,Mid-range,3.6,117,690,44,Yes,2022,1025300,888600
+PUN-0971,Hyderabadi Centre,Pune,Camp,Biryani,Budget,3.2,42,220,48,Yes,2023,703400,545000
+JAI-0972,Munch Stop,Jaipur,Mansarovar,Fast Food,Budget,4.5,101,120,27,Yes,2024,357300,285000
+BLR-0973,Dhaba Darbar,Bengaluru,Indiranagar,North Indian,Budget,4.4,702,280,70,No,2021,530400,456500
+DEL-0974,Brew Lab,Delhi,Connaught Place,Cafe,Mid-range,3.5,39,380,33,Yes,2016,349400,268600
+PUN-0975,Matsu Kitchen,Pune,Viman Nagar,Japanese,Luxury,5.0,261,3450,63,Yes,2017,7218800,8000800
+DEL-0976,Zaika Express,Delhi,Saket,North Indian,Mid-range,4.8,130,480,63,Yes,2018,,676100
+MUM-0977,Daily Grind Lab,Mumbai,Borivali,Cafe,Mid-range,4.2,69,400,26,No,2022,359600,317500
+NAG-0978,Munch Box,Nagpur,Dharampeth,Fast Food,Budget,3.6,49,130,17,No,2020,,130000
+DEL-0979,Zaika Junction,Delhi,Hauz Khas,North Indian,Budget,4.5,816,330,116,No,2017,923600,623700
+PUN-0980,Madras Bhavan,Pune,Camp,South Indian,Mid-range,3.9,59,180,42,Yes,2019,279700,224300
+BLR-0981,Sushi Room,Bengaluru,Koramangala,Japanese,Luxury,4.6,132,3890,97,No,2007,11314200,
+PUN-0982,Handi Express,Pune,Camp,North Indian,Mid-range,3.5,61,380,78,No,2023,192700,153900
+DEL-0983,Thela Point,Delhi,Lajpat Nagar,Street Food,Budget,4.8,466,120,28,Yes,2015,238400,145800
+BLR-0984,Fiesta House,Bengaluru,Indiranagar,Mexican,Budget,3.5,102,460,99,Yes,2021,1317600,1167600
+HYD-0985,Jade Palace,Hyderabad,Madhapur,Chinese,Premium,3.8,119,650,103,No,2019,2024000,
+PUN-0986,Taco Grill,Pune,Hinjewadi,Mexican,Budget,4.4,622,470,44,Yes,2016,,687100
+HYD-0987,Monsoon Dine,Hyderabad,Banjara Hills,Multi-cuisine,Premium,3.6,387,860,147,Yes,2017,3069900,3170900
+DEL-0988,Basilico Cucina,Delhi,Hauz Khas,Italian,Premium,4.7,162,1340,35,Yes,2016,1695900,1414200
+DEL-0989,Bangkok Table,Delhi,Karol Bagh,Thai,Premium,3.5,220,,84,Yes,2017,1191400,1026600
+NAG-0990,Dosa Kitchen,Nagpur,Sitabuldi,South Indian,Budget,3.8,103,170,29,Yes,2012,147300,
+PUN-0991,Lotus House,Pune,Viman Nagar,Thai,Premium,4.3,83,940,119,Yes,2024,2604900,2378000
+DEL-0992,Ramen Table,Delhi,Connaught Place,Japanese,Premium,3.8,236,3000,42,Yes,2024,4769800,4624400
+HYD-0993,Wok Bowl,Hyderabad,Banjara Hills,Chinese,Mid-range,3.7,867,310,124,Yes,2010,1642500,1342500
+HYD-0994,Chaat Junction,Hyderabad,Banjara Hills,Street Food,Budget,3.5,62,90,26,Yes,2021,174100,
+BLR-0995,Butter Box,Bengaluru,Indiranagar,Bakery & Desserts,Budget,4.2,118,270,26,No,2023,,254300
+MUM-0996,Vada Pav Point,Mumbai,Borivali,Street Food,Mid-range,4.0,139,120,24,Yes,2020,170100,131000
+HYD-0997,Kerala Point,Hyderabad,Gachibowli,South Indian,Mid-range,3.9,274,220,,Yes,2018,1068300,854800
+NAG-0998,Roast Co.,Nagpur,Sitabuldi,Cafe,Mid-range,4.6,90,450,37,No,2014,658300,474700
+BLR-0999,Quick Hub,Bengaluru,MG Road,Fast Food,Budget,3.6,183,200,31,Yes,2016,361100,216300
+NAG-1000,Brew Lab,Nagpur,Sitabuldi,Cafe,Mid-range,4.0,163,320,32,No,2022,637800,624900
